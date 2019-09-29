@@ -1,9 +1,9 @@
 #!/bin/bash
 
 nome="Rofi Wallpaper: $(basename $(pwd))"
-dir="/home/lucas/github/majestic/home/lucas/.config/rofi/scripts"
+dir="/home/jairo/.config/rofi/scripts"
 script="${HOME}/.config/polybar/scripts/wallpaper.sh"
-last="/home/lucas"
+last="/home/jairo"
 fullpath=$(readlink -e $0)
 
 ROFI="rofi -dmenu -p"
