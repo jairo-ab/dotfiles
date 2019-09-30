@@ -4,10 +4,9 @@
 #
 # Script para criar screencasts(vídeos da captura de tela) usando o ffmpeg.
 #
-# Desenvolvido por Lucas Saliés Brum <lucas@archlinux.com.br>
+#Credits: Lucas Saliés Brum
 #
-# Criado em: 09/06/2017 23:26:41
-# Última Atualização: 31/10/2018 12:35:15
+#Telegram: @jairoabreeu
 
 apps=( "xrandr" )
 
