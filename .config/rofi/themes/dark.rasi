@@ -13,14 +13,16 @@
     lightbg:                     rgba ( 238, 232, 213, 100 % );
     selected-active-foreground:  rgba ( 29, 32, 33, 100 % );
     alternate-active-background: #3b4252;
-    bordercolor:                 #2e3440;
+    /* bordercolor:                 #2e3440; */
+    bordercolor:                 #D08770;
     alternate-normal-foreground: @foreground;
     normal-background:           #3b4252;
     lightfg:                     rgba ( 88, 104, 117, 100 % );
     selected-normal-background:  #3b4252;
     border-color:                #2e3440;
     spacing:                     2;
-    separatorcolor:              #2e3440;
+    /* separatorcolor:              #2e3440; */
+    separatorcolor:              #D08770;
     separator-style:             "solid";
     urgent-background:           #3b4252;
     selected-urgent-background:  #3b4252;
