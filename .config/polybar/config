@@ -63,15 +63,15 @@ module-margin-right = 1
 
 ; fixed:pixelsize=11 / Hack:style=Regular:pixelsize=11 / Iosevka:style=Regular:pixelsize=11
 font-0 = Fantasque Sans Mono:style=Regular:pixelsize=9;3
-font-1 = feather:style=Regular:pixelsize=9;2
+font-1 = feather:style=Regular:pixelsize=9;3
 font-2 = FontAwesome:size=6;2
-font-3 = Termsynu:size=7;0
+font-3 = DejavuSansMono Nerd Font:pixelsize=10;3
 font-4 = "Font-logos:size=13;2"
 font-5 = Hack Nerd Font:pixelsize=13;3
 
 modules-left = i3 
-modules-center = window sep tv 
-modules-right = cpu memory eth filesystem temperature beats data pulse monitor powermenu
+modules-center = window 
+modules-right = cpu memory ping eth eth2 temperature data pulse monitor powermenu
 
 cursor-click = pointer
 cursor-scroll = ns-resize
@@ -101,10 +101,12 @@ module-margin-right = 1
 
 font-0 = Fantasque Sans Mono:style=Regular:pixelsize=9;2
 font-1 = feather:style=Regular:pixelsize=9;3
+font-2 = FontAwesome:size=6;2
+font-3 = DejavuSansMono Nerd Font:pixelsize=13;3
 
-modules-left = browser terminal vscode thunar telegram sep tdocker tmpd
+modules-left = browser terminal vscode thunar telegram github sep tdocker tmpd
 modules-center = mpd downloads 
-modules-right = notes wallpaper screencast screenshot lock sep netled netledout hddled refresh lixo
+modules-right = wallpaper screencast screenshot lock sep netled netledout hddled refresh lixo
 
 cursor-click = pointer
 cursor-scroll = ns-resize
@@ -139,7 +141,7 @@ font-3 = Termsynu:size=7;0
 
 modules-left = user
 modules-center = window sep tv
-modules-right = cpu memory eth filesystem temperature beats data pulse monitor powermenu
+modules-right = cpu memory eth filesystem temperature data pulse monitor powermenu
 
 cursor-click = pointer
 cursor-scroll = ns-resize
@@ -406,6 +408,39 @@ label-disconnected-foreground = ${colors.principal}
 format-connected-prefix-foreground = ${colors.secondary}
 format-disconnected-prefix-foreground = ${colors.secondary}
 
+[module/eth2]
+type = internal/network
+interface = enp2s0
+interval = 3.0
+accumulate-stats = true
+unknown-as-up = true
+
+format-connected = <label-connected>
+format-connected-prefix = "%{F#a3be8c}   %{F-}"
+;format-connected-prefix-foreground = ${colors.secondary}
+
+format-disconnected = <label-disconnected>
+format-disconnected-prefix = "%{F#BF616A}   %{F-}"
+;format-disconnected-prefix-foreground = ${colors.secondary}
+
+format-packetloss = <label-packetloss>
+;format-packetloss-prefix = " "
+;format-packetloss-prefix-foreground = ${colors.secondary}
+
+;   %ifname%    [wireless+wired]
+;   %local_ip%  [wireless+wired]
+;   %local_ip6% [wireless+wired]
+;   %essid%     [wireless]
+;   %signal%    [wireless]
+;   %upspeed%   [wireless+wired]
+;   %downspeed% [wireless+wired]
+;   %linkspeed% [wired]
+;label-connected = %downspeed:3% %upspeed:3%
+;label-connected = %downspeed:%
+label-connected = conectado
+label-disconnected = offline
+label-packetloss = los
+
 ;-------------------------------------------------------------------------
 ;              D A T A
 ;-------------------------------------------------------------------------
@@ -596,6 +631,14 @@ format-prefix = " "
 format-prefix-foreground = ${colors.secondary}
 
 ;----------------------------------------------------------
+;			G I T H U B
+;----------------------------------------------------------
+[module/github]
+type = custom/text
+content = 
+click-left = ~/.local/bin/github
+
+;----------------------------------------------------------
 ;              P I N G
 ;----------------------------------------------------------
 [module/ping]
@@ -673,7 +716,7 @@ click-left = $HOME/.local/lock/fortune &
 
 [module/browser]
 type = custom/text
-content = "%{F#BF616A}%{F-}"
+content = "%{F#BF616A}%{F-}"
 click-left = firefox &
 click-middle = qutebrowser &
 click-right = chromium &
