@@ -49,6 +49,6 @@ Repositório dedicado aos meus arquivos de configuração do meu ambiente Deskto
     EndSection
  ```
 
--Contato:
+- Contato:
 
 [Telegram](https://t.me/jairoabreeu) 
