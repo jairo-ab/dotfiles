@@ -48,3 +48,7 @@ Repositório dedicado aos meus arquivos de configuração do meu ambiente Deskto
         Option "TappingButtonMap" "lmr"
     EndSection
  ```
+
+-Contato:
+
+[Telegram](https://t.me/jairoabreeu) 
