@@ -324,7 +324,7 @@ mode "$mode_gaps_outer" {
 ####################################################################
 exec_always --no-startup-id xrdb -merge $HOME/.Xresources
 #exec_always --no-startup-id hsetroot -solid '#3B4252'
-exec_always --no-startup-id feh --bg-fill /home/jairo/Pictures/wallpaper.jpg
+exec_always --no-startup-id feh --bg-fill ${HOME}/Imagens/wallpapers/unsplash/unsplash-465507.jpg
 exec --no-startup-id compton -b --active-opacity 0.9 --blur-background
 exec --no-startup-id dunst -b
 #exec_always --no-startup-id $HOME/.config/polybar/scripts/wallpaper.sh r
