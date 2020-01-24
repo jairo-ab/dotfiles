@@ -16,7 +16,7 @@ Repositório dedicado aos meus arquivos de configuração do meu ambiente Deskto
 | :------------------ | :---------------------------------------------------------------------------------------------------------------------------------- |
 | Linux Distro        | [Arch Linux](https://aur.archlinux.org/)                                                                                            |                                                                                       
 | Gerenc. de Janelas  | [i3-gaps](https://github.com/Airblader/i3)                                                                                          |                                                                                             
-| Navegador           | [qutebrowser](https://www.mozilla.org/pt-BR/firefox/new/)                                                                           |
+| Navegador           | [Firefox](https://www.mozilla.org/pt-BR/firefox/new/)                                                                           |
 | Iniciador Programas | [Rofi](https://github.com/DaveDavenport/rofi)                                                                                       |
 | Barra de Status     | [Polybar](https://github.com/jaagr/polybar)                                                                                         |
 | Player de Música    | [Ncmpcpp](https://rybczak.net/ncmpcpp/) + [Mpd](https://github.com/MusicPlayerDaemon/MPD)                                           |
