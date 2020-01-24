@@ -1,4 +1,5 @@
 configuration {
+	theme: "dark";
     modi: "window,drun,run,ssh";
     font: "Open Sans 11";
     show-icons: true;
@@ -7,5 +8,3 @@ configuration {
     hide-scrollbar: true;
     click-to-exit: true;
 }
-
-@import "~/.config/rofi/themes/dark.rasi"
