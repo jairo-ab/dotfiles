@@ -51,4 +51,4 @@ Repositório dedicado aos meus arquivos de configuração do meu ambiente Deskto
 
 - Contato:
 
-  [Telegram](https://t.me/jairoabreeu) 
+  [Telegram](https://t.me/jairoabreeu) 
