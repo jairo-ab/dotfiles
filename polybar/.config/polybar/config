@@ -229,7 +229,7 @@ label-urgent-padding = 1
 [module/window]
 type = custom/script
 interval = 1
-format-prefix = " "
+format-prefix = "  "
 format-prefix-foreground = ${colors.secondary}
 label = %output:0:45:...% %{B- -o -u}
 ;label = %output:0:40:...%
