@@ -33,3 +33,18 @@ Repositório dedicado aos meus arquivos de configuração do meu ambiente Deskto
 | Daemon Notificação  | [Dunst](https://github.com/dunst-project/dunst)                                                                                     |
 | Tema GTK            | [Arc-Theme](https://github.com/horst3180/arc-theme)                                                                                 |
 | Tema Cursor         | Breeze Obsidian                                                                                                                     |
+
+
+#### Suporte para Touchpad:
+
+- Para usar ativar o toque, instale a libinput e crie o seguinte arquivo em "/etc/X11/xorg.conf.d/30-touchpad.conf"
+
+ ```
+    Section "InputClass"
+        Identifier "touchpad"
+        Driver "libinput"
+        MatchIsTouchpad "on"
+        Option "Tapping" "on"
+        Option "TappingButtonMap" "lmr"
+    EndSection
+ ```
