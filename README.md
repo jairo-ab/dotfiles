@@ -37,7 +37,7 @@ Repositório dedicado aos meus arquivos de configuração do meu ambiente Deskto
 
 #### Suporte para Touchpad:
 
-- Para usar ativar o toque, instale a libinput e crie o seguinte arquivo em "/etc/X11/xorg.conf.d/30-touchpad.conf"
+- Para ativar o toque e usar, instale o [libinput](https://wiki.archlinux.org/index.php/Libinput) e crie o seguinte arquivo em "/etc/X11/xorg.conf.d/30-touchpad.conf"
 
  ```
     Section "InputClass"
