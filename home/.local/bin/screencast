@@ -40,7 +40,7 @@ fi
 
 if pgrep -x "ffmpeg" > /dev/null
 then
-    [ "$(pgrep -x polybar)" ] && [ "$1" == "status" ] && echo "" && exit
+    [ "$(pgrep -x polybar)" ] && [ "$1" == "status" ] && echo "" && exit
     if [ ! $1 ]; then
         killall ffmpeg
         #notify-send -i $icone "ScreenCast" "O vídeo <b>$arquivo</b> foi terminado."
@@ -48,7 +48,7 @@ then
         exit 0
     fi
 else
-    [ "$(pgrep -x polybar)" ] && [ "$1" == "status" ] && echo "%{F#D08770}%{F-}" && exit
+    [ "$(pgrep -x polybar)" ] && [ "$1" == "status" ] && echo "%{F#D08770}"%{F-}" && exit
     if [ ! "$1" ]; then
         #notify-send -i $icone "ScreenCast" "O vídeo <b>$arquivo</b> foi iniciado..."
         notify-send -i $icone "ScreenCast" "Vídeo iniciado..."
