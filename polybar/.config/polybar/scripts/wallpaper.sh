@@ -12,7 +12,7 @@
 dir="${XDG_PICTURES_DIR:-${HOME}/Pictures/wallpapers/linux}"
 unsplash_dir="${XDG_PICTURES_DIR:-${HOME}/Pictures}/unsplash"
 default="$dir/wallpapers/default.jpg"
-ultima="/home/jairo/Imagens/wallpapers/unsplash/unsplash-1837391.jpg"
+ultima="/home/jairo/Imagens/wallpapers/unsplash/unsplash-457386.jpg"
 modo="--bg-fill"
 indice=0
 i=0
