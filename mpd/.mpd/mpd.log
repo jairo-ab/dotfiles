@@ -1,0 +1,62 @@
+Feb 12 00:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 00:53 : exception: Failed to access /home/jairo/Music: No such file or directory
+Feb 12 00:53 : exception: Failed to open '/home/jairo/.mpd/mpdstate': No such file or directory
+Feb 12 00:53 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 12 00:53 : client: [0] opened from 127.0.0.1:46854
+Feb 12 00:53 : client: [1] opened from [::1]:49004
+Feb 12 00:53 : client: [2] opened from [::1]:49006
+Feb 12 00:55 : client: [3] opened from [::1]:49012
+Feb 12 00:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 00:56 : exception: Failed to open '/home/jairo/.mpd/mpdstate': No such file or directory
+Feb 12 00:56 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 12 00:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 00:56 : exception: Failed to open '/home/jairo/.mpd/mpdstate': No such file or directory
+Feb 12 00:56 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 12 00:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 00:56 : exception: Failed to open '/home/jairo/.mpd/mpdstate': No such file or directory
+Feb 12 00:56 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 12 00:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 00:57 : exception: Failed to open '/home/jairo/.mpd/mpdstate': No such file or directory
+Feb 12 00:58 : client: [1] closed
+Feb 12 00:58 : client: [3] closed
+Feb 12 00:58 : client: [2] closed
+Feb 12 00:59 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 12 00:59 : update: added /fruitloopz4eva - Blackmores Night I Still Rememb O5qlBi79svI.m4a
+Feb 12 00:59 : client: [4] opened from [::1]:49070
+Feb 12 00:59 : exception: Failed to access /home/jairo/Music: No such file or directory
+Feb 12 00:59 : exception: Failed to access /home/jairo/Music: No such file or directory
+Feb 12 00:59 : exception: Failed to access /home/jairo/Music: No such file or directory
+Feb 12 01:00 : exception: Failed to access /home/jairo/Music: No such file or directory
+Feb 12 01:00 : exception: Failed to access /home/jairo/Music: No such file or directory
+Feb 12 01:00 : exception: Failed to access /home/jairo/Music: No such file or directory
+Feb 12 01:00 : exception: Failed to access /home/jairo/Music: No such file or directory
+Feb 12 01:00 : client: [4] closed
+Feb 12 01:00 : client: [5] opened from [::1]:49072
+Feb 12 01:00 : exception: Failed to access /home/jairo/Music: No such file or directory
+Feb 12 01:00 : exception: Failed to access /home/jairo/Music: No such file or directory
+Feb 12 01:00 : inotify: music directory was removed - cannot continue to watch it
+Feb 12 01:01 : client: [5] closed
+Feb 12 01:01 : client: [6] opened from [::1]:49074
+Feb 12 01:01 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 12 01:01 : update: added /fruitloopz4eva - Blackmores Night I Still Rememb O5qlBi79svI.m4a
+Feb 12 01:01 : client: [6] closed
+Feb 12 01:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 01:01 : exception: Failed to open '/home/jairo/.mpd/mpdstate': No such file or directory
+Feb 12 01:01 : client: [7] opened from [::1]:49076
+Feb 12 01:01 : client: [7] closed
+Feb 12 01:02 : client: [8] opened from [::1]:49078
+Feb 12 01:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 12 01:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 01:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 01:03 : client: [8] closed
+Feb 12 01:03 : client: [9] opened from [::1]:49082
+Feb 12 01:03 : client: [10] opened from [::1]:49084
+Feb 12 01:03 : client: [10] closed
+Feb 12 01:04 : player: played "fruitloopz4eva - Blackmores Night I Still Rememb O5qlBi79svI.m4a"
+Feb 12 01:04 : client: [9] closed
+Feb 12 01:04 : client: [11] opened from [::1]:49090
+Feb 12 01:05 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 12 01:05 : player: played "fruitloopz4eva - Blackmores Night I Still Rememb O5qlBi79svI.m4a"
+Feb 12 01:05 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 12 01:05 : client: [11] closed
+Feb 12 01:05 : client: [0] closed

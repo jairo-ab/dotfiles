@@ -228,7 +228,7 @@ for_window [class="Termite" title="castnow"] move window to scratchpad
 for_window [title="(screencast$|^DownThemAll|MEGAsync)"] move window to scratchpad
 for_window [class="(MEGAsync)"] move window to scratchpad
 
-for_window [class="Termite" title="^ncmpcpp"] move to workspace $ws6, floating enable, move position center
+#for_window [class="Termite" title="^ncmpcpp"] move to workspace $ws6, floating enable, move position center
 for_window [title="(^DeaDBeeF)"] move to workspace $ws6, floating enable, move position center
 for_window [title="(^Friends List)"] move to workspace $ws6, floating enable, move absolute position 1520 px 70 px
 
