@@ -123,8 +123,8 @@ bindsym $mod+Shift+c move position center
 bindsym $mod+Shift+r restart
 
 #Músic Download Youtube-dl
-bindsyn $mod+m exec --no-startup-id $HOME/bin/dl.sh -a
-bindsyn $mod+n exec --no-startup-id $HOME/bin/dl.sh -x
+bindsym $mod+m exec --no-startup-id $HOME/bin/dl.sh -a
+bindsym $mod+n exec --no-startup-id $HOME/bin/dl.sh -x
 
 # Rofi
 bindsym $mod+g exec --no-startup-id echo "" | rofi -dmenu -p "Google: " -bw 0 -lines 1 -separator-style none -location 0 -width 250 -hide-scrollbar -padding 5 | xargs -I{} firefox https://www.google.com.br/search?q={}
