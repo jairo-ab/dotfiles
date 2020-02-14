@@ -62,3 +62,48 @@ Feb 12 01:05 : client: [11] closed
 Feb 12 01:05 : client: [0] closed
 Feb 12 01:05 : client: [12] opened from 127.0.0.1:46946
 Feb 12 01:05 : player: played "fruitloopz4eva - Blackmores Night I Still Rememb O5qlBi79svI.m4a"
+Feb 12 13:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 13:58 : client: [0] opened from 127.0.0.1:45398
+Feb 12 13:58 : client: [1] opened from 127.0.0.1:45400
+Feb 12 13:58 : client: [2] opened from [::1]:46638
+Feb 12 13:58 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 12 13:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 13:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 13:58 : client: [3] opened from [::1]:46670
+Feb 12 13:58 : client: [3] closed
+Feb 12 14:01 : client: [2] closed
+Feb 12 14:04 : player: played "fruitloopz4eva - Blackmores Night I Still Rememb O5qlBi79svI.m4a"
+Feb 12 14:06 : client: [4] opened from [::1]:47104
+Feb 12 14:06 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 12 14:06 : client: [5] opened from [::1]:47106
+Feb 12 14:06 : client: [5] closed
+Feb 12 14:06 : client: [4] closed
+Feb 12 14:06 : client: [6] opened from 127.0.0.1:45876
+Feb 12 14:06 : client: [6] closed
+Feb 12 14:06 : client: [7] opened from 127.0.0.1:45878
+Feb 12 14:06 : client: [7] closed
+Feb 12 14:06 : client: [8] opened from 127.0.0.1:45880
+Feb 12 14:06 : client: [8] closed
+Feb 12 14:06 : client: [9] opened from 127.0.0.1:45882
+Feb 12 14:06 : client: [9] closed
+Feb 12 14:07 : client: [1] closed
+Feb 12 14:07 : client: [0] closed
+Feb 12 14:07 : client: [10] opened from 127.0.0.1:45898
+Feb 12 14:07 : client: [11] opened from 127.0.0.1:45900
+Feb 12 14:07 : client: [10] closed
+Feb 12 14:07 : client: [11] closed
+Feb 12 14:07 : client: [12] opened from 127.0.0.1:45902
+Feb 12 14:07 : client: [13] opened from 127.0.0.1:45904
+Feb 12 14:12 : player: played "fruitloopz4eva - Blackmores Night I Still Rememb O5qlBi79svI.m4a"
+Feb 12 20:38 : client: [14] opened from 127.0.0.1:49566
+Feb 12 20:38 : client: [14] closed
+Feb 12 20:38 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 12 20:38 : client: [15] opened from [::1]:50800
+Feb 12 20:38 : client: [16] opened from [::1]:50802
+Feb 12 20:38 : client: [16] closed
+Feb 12 20:39 : client: [17] opened from 127.0.0.1:49572
+Feb 12 20:39 : player: played "fruitloopz4eva - Blackmores Night I Still Rememb O5qlBi79svI.m4a"
+Feb 12 20:39 : client: [17] closed
+Feb 12 20:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 12 21:22 : client: [15] closed
+Feb 12 21:22 : player: played "fruitloopz4eva - Blackmores Night I Still Rememb O5qlBi79svI.m4a"
