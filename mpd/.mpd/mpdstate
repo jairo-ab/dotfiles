@@ -1,9 +1,8 @@
 sw_volume: 100
 audio_device_state:1:Pulseaudio
 audio_device_state:1:my_fifo
-state: play
+state: stop
 current: 0
-time: 30.210000
 random: 0
 repeat: 0
 single: 0
@@ -15,15 +14,13 @@ playlist_begin
 0:fruitloopz4eva - Blackmores Night I Still Rememb O5qlBi79svI.m4a
 1:Baixadas/Wanderley Cardoso/Agora Eu Sou Feliz ♫ _ WANDERLEY CARDOSO-RK3cEH02EbM.mp3
 2:Baixadas/Wanderley Cardoso/Historia de AMOR( Love Story )     Wanderley Cardoso-8i1p--f8TaE.mp3
-3:Baixadas/À Queima-Roupa-xT6OrhpEONs.mp3
-4:Baixadas/Claudia Barroso/' A vida é mesmo assim '  -  Claudia Barroso-lfrfkLNBj0U.mp3
-5:Baixadas/Claudia Barroso/' Quem mandou você errar ' - Claudia Barroso-Vc-RA40OUFE.mp3
-6:Baixadas/Waldik Soriano/EuNaoSouCachorroNAO-PxNmQYbbkco.mp3
-7:Baixadas/Aguas Passadas-34tw2qOJE1M.mp3
-8:Baixadas/Waldik Soriano/TRAIÇÃO -  WALDICK SORIANO-UK_0lMtfNoY.mp3
-9:Baixadas/Waldik Soriano/Waldick Soriano - A Carta (1964)-Mr0_A9d24wE.mp3
-10:Baixadas/Waldik Soriano/Waldick Soriano - Quem eu quero não me quer-PPluE7pKtqw.mp3
-11:Baixadas/Waldik Soriano/Waldick Soriano - Tortura de Amor-7-kHtzijxtw.mp3
-12:Baixadas/Waldik Soriano/Waldik Soriano- Alvorada do Sertão-VyHxJGwl-CI.mp3
-13:Baixadas/Waldik Soriano/Waldik Soriano - Perfume de Gardenia - Conheça no Orkut a Comunidade - Forro Brega Brasil-BMhJI8BAXR0.mp3
+3:Baixadas/Claudia Barroso/' A vida é mesmo assim '  -  Claudia Barroso-lfrfkLNBj0U.mp3
+4:Baixadas/Claudia Barroso/' Quem mandou você errar ' - Claudia Barroso-Vc-RA40OUFE.mp3
+5:Baixadas/Waldik Soriano/EuNaoSouCachorroNAO-PxNmQYbbkco.mp3
+6:Baixadas/Waldik Soriano/TRAIÇÃO -  WALDICK SORIANO-UK_0lMtfNoY.mp3
+7:Baixadas/Waldik Soriano/Waldick Soriano - A Carta (1964)-Mr0_A9d24wE.mp3
+8:Baixadas/Waldik Soriano/Waldick Soriano - Quem eu quero não me quer-PPluE7pKtqw.mp3
+9:Baixadas/Waldik Soriano/Waldick Soriano - Tortura de Amor-7-kHtzijxtw.mp3
+10:Baixadas/Waldik Soriano/Waldik Soriano- Alvorada do Sertão-VyHxJGwl-CI.mp3
+11:Baixadas/Waldik Soriano/Waldik Soriano - Perfume de Gardenia - Conheça no Orkut a Comunidade - Forro Brega Brasil-BMhJI8BAXR0.mp3
 playlist_end
