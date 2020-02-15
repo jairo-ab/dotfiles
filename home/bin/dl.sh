@@ -43,7 +43,7 @@ elif [ "$1" == "-x" ]; then
 	cd $pasta
 	dbus-launch notify-send -i $icone "Batch Downloader" "O download de $(cat /tmp/lista.txt | wc -l) ítens da /tmp/lista.txt foi iniciado."
 	for i in "${lista[@]}"; do
-		[ "$2" == "-a" ] && youtube-dl --extract-audio --audio-format mp3 $i || youtube-dl $i
+		[ "$2" == "-a" ] && youtube-dl --extract-audio --audio-format mp3 $i || youtube-dl --extract-audio --audio-format mp3 $i
 		DISPLAY=:0 canberra-gtk-play -i $som 2>&1
 		dbus-launch notify-send -i $icone "Batch Downloader" "Transfêrencias de $i finalizada."
 	done
