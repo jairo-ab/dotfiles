@@ -229,7 +229,7 @@ for_window [class="dagor2" title="(War Thunder|War Thunder (Configurações))"] 
 
 for_window [class="Termite" title="castnow"] move window to scratchpad
 #for_window [title="(screencast$|^DownThemAll|MEGAsync|DownThemAll|!$)"] move window to scratchpad
-for_window [title="(screencast$|^DownThemAll|MEGAsync)"] move window to scratchpad
+#for_window [title="(screencast$|^DownThemAll|MEGAsync)"] move window to scratchpad
 for_window [class="(MEGAsync)"] move window to scratchpad
 
 #for_window [class="Termite" title="^ncmpcpp"] move to workspace $ws6, floating enable, move position center
