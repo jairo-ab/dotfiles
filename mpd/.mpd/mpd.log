@@ -1329,3 +1329,15 @@ Feb 15 15:14 : update: added Baixadas/Moacyr Franco/Tributo a Mané Garrincha - 
 Feb 15 15:14 : update: added Baixadas/Moacyr Franco/MOACYR FRANCO  -   EU AMO TANTO, TANTO-Y4YJjqNhOO0.mp3
 Feb 15 15:14 : update: added Baixadas/Moacyr Franco/Moacyr Franco - Nosso Primeiro Amor-fcHTaNcuINg.mp3
 Feb 15 15:14 : update: added Baixadas/Moacyr Franco/Moacyr Franco - Zíngara ♫-ly7vT7jHyYs.mp3
+Feb 17 21:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 21:52 : client: [0] opened from 127.0.0.1:52148
+Feb 17 21:52 : client: [1] opened from [::1]:57968
+Feb 17 21:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 21:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 21:52 : client: [2] opened from [::1]:57970
+Feb 17 21:52 : client: [2] closed
+Feb 17 21:53 : client: [3] opened from 127.0.0.1:52154
+Feb 17 21:53 : client: [3] closed
+Feb 17 21:53 : client: [4] opened from [::1]:57974
+Feb 17 21:53 : client: [4] closed
+Feb 17 21:55 : client: [0] closed
