@@ -104,7 +104,7 @@ font-1 = feather:style=Regular:pixelsize=9;3
 font-2 = FontAwesome:size=6;2
 font-3 = DejavuSansMono Nerd Font:pixelsize=13;3
 
-modules-left = browser terminal vscode thunar telegram github sep tdocker tmpd
+modules-left = browser terminal thunar telegram github sep tdocker tmpd
 modules-center = mpd downloads 
 modules-right = wallpaper screencast screenshot lock sep netled netledout hddled refresh lixo
 
