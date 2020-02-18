@@ -1,19 +1,14 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 
 # Terminate already running bar instances
-killall -q polybar
+killall -q polybar 
 
 # Wait until the processes have been shut down
 while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
 
-# Launch bar1 and bar2
-if [ "$1" == "dark" ]
-then
-	polybar -c $HOME/.config/polybar/light-config nord-top &
-	polybar -c $HOME/.config/polybar/light-config nord-down &
-else
-	polybar -c $HOME/.config/polybar/dark-config nord-top &
-	polybar -c $HOME/.config/polybar/dark-config nord-down &
-fi
+polybar -q top -r &
+polybar -q bottom -r &
+polybar -q top2 -r &
+polybar -q bottom2 -r &
 
 echo "Bars launched..."
