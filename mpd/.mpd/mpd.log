@@ -1371,3 +1371,11 @@ Feb 18 11:25 : exception: OutputThread could not get realtime scheduling, contin
 Feb 18 11:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Feb 18 11:25 : client: [1] opened from [::1]:58542
 Feb 18 11:25 : client: [1] closed
+Feb 18 11:34 : client: [0] closed
+Feb 18 11:39 : client: [2] opened from [::1]:58552
+Feb 18 11:39 : client: [3] opened from [::1]:58554
+Feb 18 11:39 : client: [3] closed
+Feb 18 11:40 : client: [4] opened from [::1]:58556
+Feb 18 11:40 : client: [4] closed
+Feb 18 11:40 : player: played "Baixadas/Waldik Soriano/Waldick Soriano - Tortura de Amor-7-kHtzijxtw.mp3"
+Feb 18 11:40 : client: [2] closed
