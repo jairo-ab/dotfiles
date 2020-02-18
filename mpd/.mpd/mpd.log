@@ -1365,3 +1365,9 @@ Feb 17 22:00 : client: [15] opened from [::1]:58048
 Feb 17 22:00 : client: [15] closed
 Feb 17 22:01 : player: played "Baixadas/Waldik Soriano/TRAIÇÃO -  WALDICK SORIANO-UK_0lMtfNoY.mp3"
 Feb 17 22:01 : client: [14] closed
+Feb 18 11:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 11:25 : client: [0] opened from [::1]:58540
+Feb 18 11:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 11:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 11:25 : client: [1] opened from [::1]:58542
+Feb 18 11:25 : client: [1] closed
