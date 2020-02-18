@@ -7,7 +7,7 @@ killall -q polybar
 while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
 
 # Launch bar1 and bar2
-if [ "$1" == "light" ]
+if [ "$1" == "dark" ]
 then
 	polybar -c $HOME/.config/polybar/light-config nord-top &
 	polybar -c $HOME/.config/polybar/light-config nord-down &
