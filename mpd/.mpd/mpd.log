@@ -1408,3 +1408,7 @@ Feb 19 11:12 : client: [4] opened from [::1]:48498
 Feb 19 11:12 : client: [4] closed
 Feb 19 11:14 : client: [2] closed
 Feb 19 11:14 : player: played "Baixadas/Agnaldo Timoteo/AGNALDO TIMÓTEO  -  A CASA DE IRENE 1965-WqyUP5xDKzY.mp3"
+Feb 19 18:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 18:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 18:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 18:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
