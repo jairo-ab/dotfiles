@@ -1401,3 +1401,10 @@ Feb 19 11:11 : exception: OutputThread could not get realtime scheduling, contin
 Feb 19 11:11 : client: [1] opened from [::1]:48490
 Feb 19 11:11 : client: [1] closed
 Feb 19 11:11 : client: [0] closed
+Feb 19 11:12 : client: [2] opened from [::1]:48494
+Feb 19 11:12 : client: [3] opened from [::1]:48496
+Feb 19 11:12 : client: [3] closed
+Feb 19 11:12 : client: [4] opened from [::1]:48498
+Feb 19 11:12 : client: [4] closed
+Feb 19 11:14 : client: [2] closed
+Feb 19 11:14 : player: played "Baixadas/Agnaldo Timoteo/AGNALDO TIMÓTEO  -  A CASA DE IRENE 1965-WqyUP5xDKzY.mp3"
