@@ -1412,3 +1412,1049 @@ Feb 19 18:18 : exception: RTIOThread could not get realtime scheduling, continui
 Feb 19 18:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Feb 19 18:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Feb 19 18:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 18:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 18:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 18:26 : player: played "Baixadas/Agnaldo Timoteo/AGNALDO TIMÓTEO  -  A CASA DE IRENE 1965-WqyUP5xDKzY.mp3"
+Feb 19 18:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 18:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 18:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 18:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 18:28 : client: [0] opened from [::1]:45872
+Feb 19 18:28 : client: [1] opened from [::1]:45874
+Feb 19 18:28 : client: [1] closed
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Mauricio Reis Aprenda coração (Bate coração pode quebrar minha costela)-CQlR8aQDGL8.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Maurício reis Amor Proibido-G-LkhNxWffk.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/NÃO VOLTE PRA MIM MAURÍCIO REIS 1973--PFmj5izZYI.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Mauricio Reis  PERDAO SENHOR-S4epuPKNtBI.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Maurício Reis - Estrada da Vida-4nHDtEa_qQg.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Maurício Reis - Locutor--3mmUx6sHi8.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Mauricio Reis     A PARTIDA-O9Lfibr8QYQ.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Chorar por Amor-XxNl4i5X_Ho.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Mauricio Reis Mercedão Vermelho-DklhjxnxmRY.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Onde Está Você-KPuUpkuigKM.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Mauricio Reís Verônica 1996-N09Mi8Nurhc.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Maurício Reis   FIM DE NOIVADO  Antonio Gonzaga  VERONICA  Ve-m9ihgaY1EmY.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Mauricio Reis A Partida versão remasterizada-qqYO56XMA9Y.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Maurício Reis Lenço Manchado-86te86u2kA4.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Mauricio Reis Dançarina 1974-43uqK9nLLrc.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Mauricio Reis Quem sabe sou eu-RKyZWRIlbsQ.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Mauricio Reis Chorar por amor-7BsBjg6SeAY.mp3
+Feb 19 18:28 : update: added Baixadas/Mauricio Reis/Mauricio Reis Farrapo Humano-WEVhGE0NwGE.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa e Erasmo Carlos - Detalhes-W0s1VmEQ6ek.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/gal costa - azul-_G2KuvScyYk.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa - Quando Você Olha Pra Ela (Lyric Vídeo)-LsJ9rZGRJZM.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa - Palavras no Corpo-gyh7lUYXBYg.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa - Eu Sonhei Que Tu Estavas Tão Linda-OtSQPqFZGzs.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/As Curvas da Estrada de Santos _ Gal Costa (Vídeo Oficial)-dGlOJXAk_6U.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa - Força Estranha-JeY2ojRkSys.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Sorte - Caetano Veloso & Gal Costa (1985)-tVXwRjABmUA.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa _ O Que É Que Há (Vídeo Oficial)-kg43PM6EjWE.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa   Chuva de prata-o0VLZt5irDc.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Aquarela do Brasil - Gal Costa-LZkvhpgX6g4.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Maria Bethânia - 'As Canções Que Você Fez Para Mim' (Ao Vivo) - Noite Luzidia-tdjY18DnrWM.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa _ Dê Um Rolê (Vídeo Oficial)--nY1qJcdKdE.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa - Da maior importância-JWTQ6Eico8E.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/GAL COSTA - FESTA DO INTERIOR-3u8twHoYqtE.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa - Chega De Saudade-7ErQv8vwStk.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa Vaca Profana-Q3ANSUGEwKE.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Sua Estupidez _ Gal Costa (Vídeo Oficial)-rtHTSta0xh8.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa - Baby-7ey65touQaY.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/TIM MAIA e GAL COSTA  - UM DIA DE DOMINGO-kQkSdt6pg6Y.mp3
+Feb 19 18:28 : update: added Baixadas/Gal Costa/Gal Costa - Não identificado-6khZzKCSomE.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Toalha de mesa + Volta por cima-zNJjkPQ3hsQ.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Cassia Eller e Noite Ilustrada-cpnhrY2YDUw.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Canto Para Um Amor Sem Fim-Lym7F3Z0-c0.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Pout-Pourri-u04qE6mEl7U.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/1962 - Noite Ilustrada - Volta Por Cima-BI8dBBDL0CU.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada (Ai Que Saudades da Amélia)-CvIdqFr1Ix4.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Vivência - Noite Ilustrada-HDdHZB4Q9R0.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Dona da casa boa noite-dcHJCszI7es.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada -  Água Bebida-ddcA5YAwo2c.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Meus Tempos de Criança.mpg-vim1RMnsGxE.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Moça Criança - canta Noite Ilustrada-UWlcRCnfuPw.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Balada número 7( Noite Ilustrada)-QBgZmARXqAg.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Minha Rainha - Os Grandes Sucessos-hiT2RnQYQH4.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Leva Meu Samba - Atire A Primeira Pedra - Ai Que Sauda De Amélia-hJAQ4dtay3M.mp3
+Feb 19 18:28 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Como eu era importante ao lado dela-9xDkuCHDYFY.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Com Homem Não Se Brinca-pCDJYn8oqFY.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Vingança-itZJYzBdkMY.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/ROBERTO MULLER  -   LUZ NEGRA-LStHh3pbLfU.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Roberto Muller - SOSFORRÓ-JmTvlNwTxtg.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Roberto Muller - Pouti-Pourri Matriz ou filial - Ela Disse-me Assim-HADGTp0GwsI.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/ROBERTO MULLER - MARCAS-SPJpU6DfRgQ.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/ROBERTO MULLER - FONTE DE CARINHO PIT-G47DHtkEojM.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Roberto Müller - Eu Tenho Pena de Você-o-iMP39jZ60.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Roberto Müller- Foi Assim-PWAqy5UxXEI.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Roberto Muller - Entre Espumas-V_Sgy4RKiyM.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/ROBERTO MULLER - VOCÊ JA FOI DESPEJADA-8E3wS5X6bPA.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Roberto Muller - Cigana-a0oO6cfCrf8.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Onde Andará-XxU7xKuaxvk.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Roberto Muller - Colecionador de Chifres-9m1SrRqEYT0.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Fruto Amargo (Fruto Amargo)-HuF6-yRnudc.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/ROBERTO MULLER  -   VELHA MOÇA-_bGDe5N7BTE.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Eu tenho pena de você - Roberto Muller-46LLYKDbwwk.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Muller/Roberto Muller-Nunca Mais Brigarei Contigo.-f4mCWUr2O1k.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethânia — Negue-ApXp4FERe80.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/ONDE ESTARÁ O MEU AMOR - MARIA BETHÂNIA-zS-GkiZ1zXI.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Não Mexe Comigo - Carta de Amor - DVD Carta de Amor - Maria Bethânia-tjZgiXwDxwQ.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Fera Ferida' (Ao Vivo) - Maricotinha Ao Vivo-wnTUdw3nIgU.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethania - 'Olha'-tqSaNvANjxw.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Brincar de viver - Maria Bethânia-OEyjM6abNuo.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Canto de Oxum Iemanjá, Rainha do Mar (Maria Bethânia 2006)-5e3yNxCWxFk.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethânia - É o Amor-37S5AKmot8k.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethânia - A Felicidade-mdG7b2bOTmY.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Casinha Branca - Maria Bethânia-q8Z-0dBOClw.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethânia e Adriana Calcanhotto - Depois De Ter Você-9DdtmGA-RlE.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Quem me Leva os Meus Fantasmas' (Ao Vivo) – Carta de Amor-rgMWyJxIIJo.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethânia  - Olhos nos olhos-z-Ww20KPvZ4.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethânia - 'As Canções Que Você Fez Para Mim' (Ao Vivo) - Noite Luzidia-tdjY18DnrWM.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Reconvexo' (Ao Vivo) – Amor Festa Devoção-YPO1iaetL2I.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethânia - Eu nao existe sem voce-dpiC2uHgKpE.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Carta de Amor' (Ao Vivo) – Carta de Amor-Zi2cb9cK4M8.mp3
+Feb 19 18:28 : update: added Baixadas/Maria Betania/Maria Bethânia - Sensivel Demais-Mv47VtRm0bY.mp3
+Feb 19 18:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 18:28 : client: [2] opened from [::1]:45876
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/José Ribeiro   Aqui Estou Eu-yyibG04W3Bc.mp3
+Feb 19 18:28 : client: [2] closed
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/Jose Ribeiro - Tive tanta confiança-i2_KfNTL91g.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/José Ribeiro- Sandra-hmPs9gQ3Vks.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/Um Amor Vai, Outro Vem-gtttAGVGyfk.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/JOSÉ RIBEIRO   Quando Brigas Comigo-jGQ50hghw6E.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/Sou eu... José Ribeiro-DLa36Xrpc0M.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/José Ribeiro 'meu coração que não te esquece'--VWWqA1EbaE.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/José Ribeiro - Na porta da cozinha-TwvAOxxhL2s.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/José Ribeiro - Culpada 1965 (Primeiro Disco)-O6ZkUvPlOq4.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/Quando brigas comigo - José Ribeiro-rH4ttMS9Qgc.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/José Ribeiro - fingida-quDm6p-LnyI.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/JOSE RIBEIRO - ORAÇÃO DE AMOR.avi-Eh0de2VC6PA.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/JOSÉ RIBEIRO   Um Minuto É O Bastante-q4c-53_vngQ.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/Erro de Matrimônio-TwjmLJ_yGzs.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/JOSE RIBEIRO - PENSANDO MARISA-N20D4-hDiDg.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/José Ribeiro - A Beleza da Rosa (1972)-acXjb-1h4C8.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/José Ribeiro - Apenas um trago (Bom dia, meu amor)-WWKr6KDef_k.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/JOSE RIBEIRO - O BEIJO.avi-7wT1qzj-Ct0.mp3
+Feb 19 18:28 : update: added Baixadas/Jose Ribeiro/José Ribeiro-Lágrimas Nos Ollhos.-QHQ_61K7qv4.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/13 - ALCIONE - QUALQUER DIA DESSES [HD 640x360 XVID Wide Screen].avi-PBxnSI41-XU.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/Alcione _ Você Me Vira A Cabeça Me Tira Do Sério-Y10qW6PI-Hs.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/Alcione - Ou Ela ou Eu-jVkxaERd8k4.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/Alcione   Meu Ébano-Wo_KbGmrvIg.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/Alcione - Estranha Loucura-IN1foTAKimw.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/A Loba - Alcione-_T0GKQ9i5Vs.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/Alcione - Além da cama-kVeW6zhdr3s.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/ALCIONE NÃO DEIXE O SAMBA MORRER-PANDEIRO É MEU NOME-_TnLPDG8ZMA.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/Alcione - Entidade-XABiKQbPg94.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/Alcione - Meu vício é voce-gMOo-H0A1no.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/Alcione - Sufoco-e_xOLBPzZ_w.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/Salve Jorge - Amor Surreal - Alcione-6U_iSPm2duk.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/Alcione - Coração de Porcelana-RRFRIavVn6c.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/Alcione - Garoto Maroto-rm9mXQoyUAg.mp3
+Feb 19 18:28 : update: added Baixadas/Alcione/Alcione - Chora coração-u8N9SKZZzMs.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/Fagner - Custe o que custar-qW-Sa6GZTtI.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/FAGNER - ROMANCE NO DESERTO-IjedLg1csw0.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/Fagner - Jura Secreta (Video Ao Vivo)-N1FIy7eKYFM.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/Fagner - Borbulhas de amor-L9ebXp61y7I.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/Fagner - Súplica Cearense (Live Video)-tTSet9-73kE.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/NOTURNO - FAGNER-0xZqBAHFRhg.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/Fagner - Lembrança de um beijo-Mhnze6ydf5k.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/Fagner - Mucuripe (Video Ao Vivo)-Qs96sm4gV7E.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/FAGNER - ESPUMAS AO VENTO.wmv-eqR6apoVkGw.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/Fagner - Deslizes (Video Ao Vivo)-jvgkiurPmZk.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/da Cor do Pecado - Dezembros - Fagner-HfD-Ifya_iM.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/RAIMUNDO FAGNER - E NÃO VOU DEIXAR VOCÊ TÃO SÓ-nSA5tbwAYBY.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/Fagner - Revelação (Video Ao Vivo)-Qfd0XCexKFI.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/Fagner - Retrovisor (Pseudo Video)-IQ-NFI7yPR0.mp3
+Feb 19 18:28 : update: added Baixadas/Fagner/Fagner - Jardim Dos Animais--ViVV6ChcHA.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/Gracias por Ser mi Princesa Angela María--Mho2kuOkw0.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/Angela Maria canta 'Não me culpe' (Dolores Duran)-EYpAqL_qgqA.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/ÂNGELA MARIA  -   FOI DEUS  1962-2M8AHtb4Klc.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/Angela Maria - MEU EX AMOR - samba-canção de Adelino Moreira - gravação de 1962-U4zFmfr6X4c.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/Angela Maria - Abandono-nk_sUJggo1I.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/Angela Maria   Tango Para Tereza-9q00nQob-Es.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/Orgulho - Ângela Maria-zvkQIjxsYOc.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/Ângela Maria - Foi Deus-K7aO8--V63k.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/Angela Maria 1957 'Mentindo'-8L8EttjGyp0.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/MOÇA BONITA   ANGELA MARIA-rX0OR7SgrUc.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/Angela Maria - Falhaste Coração-8BjfPp8tg-4.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/ÂNGELA MARIA    -   CINDERELA   1965-okGwYF7sJEw.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/Ângela Maria e Antonio Aguillar - Cielito Lindo-rVQ1XJ0GYdY.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/ANGELA MARIA   GENTE HUMILDE-gTvqpWdFh5U.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/Angela Maria - Babalu-nmRC1EHOLAU.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/ÂNGELA MARIA - AI, MOURARIA-aHcUjRjGDnM.mp3
+Feb 19 18:28 : update: added Baixadas/Angela Maria/Vídeo de Nº 065 - GAROTA SOLITÁRIA - Angela Maria-rGqVvOGjT4g.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Debaixo dos caracóis dos seus cabelos-DzJXvEPzxLM.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Sereia (Videoclipe)-cNmsncBEfdI.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos-O grande amor da minha vida.wmv-ggRJrs2xtMM.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Detalhes (Vídeo Ao Vivo)-54xxnkXqltw.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Como é Grande o Meu Amor por Você (Vídeo Ao Vivo)-IWAxEpyM3q4.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Quando (Rooftop concert antes dos Beatles)-wdW2Eo7xY5w.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Rotina (1973)-oD70VRWFZSw.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Se eu partir-f1I7EDDXc1Q.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Outra Vez - Você Foi - Roberto Carlos-LjzGui-3eQc.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Nossa Senhora - Roberto Carlos-mnjYLD9vKF0.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Amor Perfeito (Vídeo Ao Vivo)--hi8JbL2wdY.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - As flores do jardim da nossa casa-8jm6mQeInpU.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos. Luz divina-JY-h6Tbn39s.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Sua Estupidez (Áudio Oficial)-4pImO_uIXrQ.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Pensamentos (1983)-8jnpM10LZIA.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Como é Bom Saber (Áudio Oficial)-MTi6uTL7sEY.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/roberto carlos - jesus cristo-IrPfRyypsws.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Café da manhã - Com letra-U-HdmIqx0-c.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos Esse Cara Sou Eu a letra tema de Theo e Morena em salve o jorge-jKUcRaRrMhI.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - O homem ♫-dJm4yCyUnuU.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos (Como vai você)-mt_a3DIQnsg.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/ROBERTO CARLOS - AS BALEIAS.-1AqS1Deahgg.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos Amor Sem Limites-fCBjEvG7tz8.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos O Divã - the divan 1972 original-XlAx9_QD0oc.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Eu Te Darei o Céu - Roberto Carlos (Lp Mono 1966)-edmRcDrRj2g.mp3
+Feb 19 18:28 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Os Sete Cabeludos (Áudio Oficial)-EttjCVd4GNk.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra Seja Feliz-6iICQg7qpD0.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Vai Curtir, Vai Dançar part. Wesley Safadão (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-zaRhSszSHCE.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra-Não vou mais deixar você tão só-DYL3AFoRx_8.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Cheia De Manias (DVD Raça Negra & Amigos) [Video Oficial]-uJz0F36TGoc.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - E Agora - Part. Juliana Bandeira (DVD Raça Negra & Amigos) [Video Oficial]-BbHRyLWYoXM.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Ela _ Perdoa (DVD Raça Negra & Amigos) [Video Oficial]-Zg_-OYX3sok.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Quando Te Encontrei - Part. Alexandre Pires (DVD Raça Negra & Amigos) [Video Oficial]-ZsQH8fASvFU.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Cigana part. Wesley Safadão (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-4ESVsb6Q85c.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Me Leva Junto Com Você (Raça Negra & Amigos 2) [Vídeo Oficial]-WsMEtX2NtYw.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - É Tarde Demais part. Leonardo (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-2E1gDZ1ENpQ.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Vida Cigana (DVD Raça Negra & Amigos) [Video Oficial]-EKrTlyWpd24.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Deus Me Livre part. Léo Magalhães (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-25xhtlSVqNM.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Sozinho_Estou Mal_Volta (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-fVFp1fRFZNU.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Maravilha part. Bruno & Marrone (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-4CynwpNjDZo.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Não Posso Dizer Adeus - Part.  Raffa (DVD Raça Negra & Amigos) [Video Oficial]-fst7HGE5Ms8.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Preciso Ter Alguém (Ao Vivo)--cnEfJTwNfs.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Você Não Sabe De Mim (Ao Vivo)-Wfjh9y-ph4I.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - A Vida Inteira part. Eduardo Costa (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-gMFA2bA3AHo.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raiva de você (Raça Negra)-urVkYtWT6rA.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Preciso Desse Amor (Ao Vivo)-EljrPtbp5g8.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Correnteza De Emoção (Ao Vivo)-OXV3jXnhWt8.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Dono do Seu Beijo Part. Xand Avião (DVD Raça Negra & Amigos 2) [Video Oficial]-4p0NI2tOmkE.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Preciso Dar Um Tempo (Raça Negra, Vol. 9) [Áudio Oficial]-R9B5r5MsLHg.mp3
+Feb 19 18:28 : update: added Baixadas/Raça Negra/Raça Negra - Doce Paixão _ Caroline  - Part. Bruno Cardoso (DVD Raça Negra & Amigos) [Video Oficial]-n2Z_hQ4i69c.mp3
+Feb 19 18:28 : client: [3] opened from 127.0.0.1:42764
+Feb 19 18:30 : client: [3] closed
+Feb 19 18:30 : client: [4] opened from 127.0.0.1:42770
+Feb 19 18:30 : client: [5] opened from 127.0.0.1:42772
+Feb 19 18:30 : client: [5] closed
+Feb 19 18:30 : client: [6] opened from [::1]:45888
+Feb 19 18:30 : client: [6] closed
+Feb 19 18:31 : client: [7] opened from 127.0.0.1:42776
+Feb 19 18:31 : client: [7] closed
+Feb 19 18:31 : client: [8] opened from 127.0.0.1:42778
+Feb 19 18:31 : client: [8] closed
+Feb 19 18:31 : client: [9] opened from 127.0.0.1:42780
+Feb 19 18:31 : client: [9] closed
+Feb 19 18:31 : client: [10] opened from 127.0.0.1:42782
+Feb 19 18:31 : client: [10] closed
+Feb 19 18:32 : client: [4] closed
+Feb 19 18:32 : client: [11] opened from 127.0.0.1:42786
+Feb 19 18:33 : client: [11] closed
+Feb 19 18:33 : client: [12] opened from 127.0.0.1:42788
+Feb 19 18:33 : client: [12] closed
+Feb 19 18:33 : client: [13] opened from 127.0.0.1:42790
+Feb 19 18:33 : client: [13] closed
+Feb 19 18:33 : client: [14] opened from 127.0.0.1:42792
+Feb 19 18:33 : player: played "Baixadas/Waldik Soriano/Waldik Soriano - Perfume de Gardenia - Conheça no Orkut a Comunidade - Forro Brega Brasil-BMhJI8BAXR0.mp3"
+Feb 19 18:33 : client: [15] opened from [::1]:45908
+Feb 19 18:33 : client: [15] closed
+Feb 19 18:33 : client: [14] closed
+Feb 19 18:33 : client: [16] opened from 127.0.0.1:42796
+Feb 19 18:35 : client: [16] closed
+Feb 19 18:35 : client: [17] opened from 127.0.0.1:42798
+Feb 19 18:36 : client: [17] closed
+Feb 19 18:36 : client: [18] opened from 127.0.0.1:42800
+Feb 19 18:36 : client: [18] closed
+Feb 19 18:36 : client: [19] opened from 127.0.0.1:42802
+Feb 19 18:36 : client: [19] closed
+Feb 19 18:36 : client: [20] opened from 127.0.0.1:42806
+Feb 19 18:36 : player: played "Baixadas/Agnaldo Timoteo/AGNALDO TIMÓTEO  -  A CASA DE IRENE 1965-WqyUP5xDKzY.mp3"
+Feb 19 18:37 : client: [21] opened from 127.0.0.1:42808
+Feb 19 18:37 : client: [21] closed
+Feb 19 18:37 : client: [22] opened from 127.0.0.1:42810
+Feb 19 18:37 : client: [22] closed
+Feb 19 18:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 18:37 : client: [23] opened from [::1]:45926
+Feb 19 18:37 : client: [23] closed
+Feb 19 18:37 : client: [20] closed
+Feb 19 18:37 : client: [24] opened from 127.0.0.1:42814
+Feb 19 18:37 : client: [25] opened from 127.0.0.1:42816
+Feb 19 18:37 : client: [25] closed
+Feb 19 18:37 : client: [26] opened from 127.0.0.1:42818
+Feb 19 18:37 : client: [26] closed
+Feb 19 18:37 : client: [24] closed
+Feb 19 18:38 : client: [27] opened from 127.0.0.1:42820
+Feb 19 18:38 : client: [0] closed
+Feb 19 18:38 : client: [28] opened from [::1]:45936
+Feb 19 18:38 : client: [29] opened from [::1]:45938
+Feb 19 18:38 : client: [29] closed
+Feb 19 18:40 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 18:40 : update: added /The Willow Maid - Erutan.m4a
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Aprenda coração (Bate coração pode quebrar minha costela)-CQlR8aQDGL8.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Aprenda coração (Bate coração pode quebrar minha costela)-CQlR8aQDGL8.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Aprenda coração (Bate coração pode quebrar minha costela)-CQlR8aQDGL8.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício reis Amor Proibido-G-LkhNxWffk.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício reis Amor Proibido-G-LkhNxWffk.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício reis Amor Proibido-G-LkhNxWffk.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/NÃO VOLTE PRA MIM MAURÍCIO REIS 1973--PFmj5izZYI.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/NÃO VOLTE PRA MIM MAURÍCIO REIS 1973--PFmj5izZYI.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/NÃO VOLTE PRA MIM MAURÍCIO REIS 1973--PFmj5izZYI.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis  PERDAO SENHOR-S4epuPKNtBI.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis  PERDAO SENHOR-S4epuPKNtBI.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis  PERDAO SENHOR-S4epuPKNtBI.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício Reis - Estrada da Vida-4nHDtEa_qQg.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício Reis - Estrada da Vida-4nHDtEa_qQg.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício Reis - Estrada da Vida-4nHDtEa_qQg.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício Reis - Locutor--3mmUx6sHi8.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício Reis - Locutor--3mmUx6sHi8.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício Reis - Locutor--3mmUx6sHi8.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis     A PARTIDA-O9Lfibr8QYQ.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis     A PARTIDA-O9Lfibr8QYQ.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis     A PARTIDA-O9Lfibr8QYQ.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Chorar por Amor-XxNl4i5X_Ho.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Chorar por Amor-XxNl4i5X_Ho.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Chorar por Amor-XxNl4i5X_Ho.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Mercedão Vermelho-DklhjxnxmRY.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Mercedão Vermelho-DklhjxnxmRY.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Mercedão Vermelho-DklhjxnxmRY.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Onde Está Você-KPuUpkuigKM.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Onde Está Você-KPuUpkuigKM.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Onde Está Você-KPuUpkuigKM.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reís Verônica 1996-N09Mi8Nurhc.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reís Verônica 1996-N09Mi8Nurhc.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reís Verônica 1996-N09Mi8Nurhc.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício Reis   FIM DE NOIVADO  Antonio Gonzaga  VERONICA  Ve-m9ihgaY1EmY.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício Reis   FIM DE NOIVADO  Antonio Gonzaga  VERONICA  Ve-m9ihgaY1EmY.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício Reis   FIM DE NOIVADO  Antonio Gonzaga  VERONICA  Ve-m9ihgaY1EmY.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis A Partida versão remasterizada-qqYO56XMA9Y.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis A Partida versão remasterizada-qqYO56XMA9Y.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis A Partida versão remasterizada-qqYO56XMA9Y.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício Reis Lenço Manchado-86te86u2kA4.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício Reis Lenço Manchado-86te86u2kA4.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Maurício Reis Lenço Manchado-86te86u2kA4.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Dançarina 1974-43uqK9nLLrc.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Dançarina 1974-43uqK9nLLrc.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Dançarina 1974-43uqK9nLLrc.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Quem sabe sou eu-RKyZWRIlbsQ.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Quem sabe sou eu-RKyZWRIlbsQ.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Quem sabe sou eu-RKyZWRIlbsQ.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Chorar por amor-7BsBjg6SeAY.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Chorar por amor-7BsBjg6SeAY.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Chorar por amor-7BsBjg6SeAY.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Farrapo Humano-WEVhGE0NwGE.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Farrapo Humano-WEVhGE0NwGE.mp3
+Feb 19 18:40 : update: added Baixadas/Mauricio Reis/Mauricio Reis Farrapo Humano-WEVhGE0NwGE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa e Erasmo Carlos - Detalhes-W0s1VmEQ6ek.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa e Erasmo Carlos - Detalhes-W0s1VmEQ6ek.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa e Erasmo Carlos - Detalhes-W0s1VmEQ6ek.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/gal costa - azul-_G2KuvScyYk.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/gal costa - azul-_G2KuvScyYk.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/gal costa - azul-_G2KuvScyYk.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Quando Você Olha Pra Ela (Lyric Vídeo)-LsJ9rZGRJZM.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Quando Você Olha Pra Ela (Lyric Vídeo)-LsJ9rZGRJZM.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Quando Você Olha Pra Ela (Lyric Vídeo)-LsJ9rZGRJZM.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Palavras no Corpo-gyh7lUYXBYg.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Palavras no Corpo-gyh7lUYXBYg.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Palavras no Corpo-gyh7lUYXBYg.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Eu Sonhei Que Tu Estavas Tão Linda-OtSQPqFZGzs.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Eu Sonhei Que Tu Estavas Tão Linda-OtSQPqFZGzs.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Eu Sonhei Que Tu Estavas Tão Linda-OtSQPqFZGzs.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/As Curvas da Estrada de Santos _ Gal Costa (Vídeo Oficial)-dGlOJXAk_6U.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/As Curvas da Estrada de Santos _ Gal Costa (Vídeo Oficial)-dGlOJXAk_6U.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/As Curvas da Estrada de Santos _ Gal Costa (Vídeo Oficial)-dGlOJXAk_6U.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Força Estranha-JeY2ojRkSys.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Força Estranha-JeY2ojRkSys.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Força Estranha-JeY2ojRkSys.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Sorte - Caetano Veloso & Gal Costa (1985)-tVXwRjABmUA.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Sorte - Caetano Veloso & Gal Costa (1985)-tVXwRjABmUA.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Sorte - Caetano Veloso & Gal Costa (1985)-tVXwRjABmUA.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa _ O Que É Que Há (Vídeo Oficial)-kg43PM6EjWE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa _ O Que É Que Há (Vídeo Oficial)-kg43PM6EjWE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa _ O Que É Que Há (Vídeo Oficial)-kg43PM6EjWE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa   Chuva de prata-o0VLZt5irDc.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa   Chuva de prata-o0VLZt5irDc.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa   Chuva de prata-o0VLZt5irDc.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Aquarela do Brasil - Gal Costa-LZkvhpgX6g4.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Aquarela do Brasil - Gal Costa-LZkvhpgX6g4.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Aquarela do Brasil - Gal Costa-LZkvhpgX6g4.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Maria Bethânia - 'As Canções Que Você Fez Para Mim' (Ao Vivo) - Noite Luzidia-tdjY18DnrWM.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Maria Bethânia - 'As Canções Que Você Fez Para Mim' (Ao Vivo) - Noite Luzidia-tdjY18DnrWM.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Maria Bethânia - 'As Canções Que Você Fez Para Mim' (Ao Vivo) - Noite Luzidia-tdjY18DnrWM.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa _ Dê Um Rolê (Vídeo Oficial)--nY1qJcdKdE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa _ Dê Um Rolê (Vídeo Oficial)--nY1qJcdKdE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa _ Dê Um Rolê (Vídeo Oficial)--nY1qJcdKdE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Da maior importância-JWTQ6Eico8E.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Da maior importância-JWTQ6Eico8E.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Da maior importância-JWTQ6Eico8E.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/GAL COSTA - FESTA DO INTERIOR-3u8twHoYqtE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/GAL COSTA - FESTA DO INTERIOR-3u8twHoYqtE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/GAL COSTA - FESTA DO INTERIOR-3u8twHoYqtE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Chega De Saudade-7ErQv8vwStk.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Chega De Saudade-7ErQv8vwStk.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Chega De Saudade-7ErQv8vwStk.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa Vaca Profana-Q3ANSUGEwKE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa Vaca Profana-Q3ANSUGEwKE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa Vaca Profana-Q3ANSUGEwKE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Sua Estupidez _ Gal Costa (Vídeo Oficial)-rtHTSta0xh8.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Sua Estupidez _ Gal Costa (Vídeo Oficial)-rtHTSta0xh8.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Sua Estupidez _ Gal Costa (Vídeo Oficial)-rtHTSta0xh8.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Baby-7ey65touQaY.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Baby-7ey65touQaY.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Baby-7ey65touQaY.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/TIM MAIA e GAL COSTA  - UM DIA DE DOMINGO-kQkSdt6pg6Y.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/TIM MAIA e GAL COSTA  - UM DIA DE DOMINGO-kQkSdt6pg6Y.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/TIM MAIA e GAL COSTA  - UM DIA DE DOMINGO-kQkSdt6pg6Y.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Não identificado-6khZzKCSomE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Não identificado-6khZzKCSomE.mp3
+Feb 19 18:40 : update: added Baixadas/Gal Costa/Gal Costa - Não identificado-6khZzKCSomE.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Toalha de mesa + Volta por cima-zNJjkPQ3hsQ.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Toalha de mesa + Volta por cima-zNJjkPQ3hsQ.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Toalha de mesa + Volta por cima-zNJjkPQ3hsQ.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Cassia Eller e Noite Ilustrada-cpnhrY2YDUw.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Cassia Eller e Noite Ilustrada-cpnhrY2YDUw.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Cassia Eller e Noite Ilustrada-cpnhrY2YDUw.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Canto Para Um Amor Sem Fim-Lym7F3Z0-c0.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Canto Para Um Amor Sem Fim-Lym7F3Z0-c0.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Canto Para Um Amor Sem Fim-Lym7F3Z0-c0.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Pout-Pourri-u04qE6mEl7U.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Pout-Pourri-u04qE6mEl7U.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Pout-Pourri-u04qE6mEl7U.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/1962 - Noite Ilustrada - Volta Por Cima-BI8dBBDL0CU.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/1962 - Noite Ilustrada - Volta Por Cima-BI8dBBDL0CU.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/1962 - Noite Ilustrada - Volta Por Cima-BI8dBBDL0CU.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada (Ai Que Saudades da Amélia)-CvIdqFr1Ix4.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada (Ai Que Saudades da Amélia)-CvIdqFr1Ix4.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada (Ai Que Saudades da Amélia)-CvIdqFr1Ix4.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Vivência - Noite Ilustrada-HDdHZB4Q9R0.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Vivência - Noite Ilustrada-HDdHZB4Q9R0.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Vivência - Noite Ilustrada-HDdHZB4Q9R0.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Dona da casa boa noite-dcHJCszI7es.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Dona da casa boa noite-dcHJCszI7es.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Dona da casa boa noite-dcHJCszI7es.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada -  Água Bebida-ddcA5YAwo2c.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada -  Água Bebida-ddcA5YAwo2c.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada -  Água Bebida-ddcA5YAwo2c.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Meus Tempos de Criança.mpg-vim1RMnsGxE.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Meus Tempos de Criança.mpg-vim1RMnsGxE.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Meus Tempos de Criança.mpg-vim1RMnsGxE.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Moça Criança - canta Noite Ilustrada-UWlcRCnfuPw.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Moça Criança - canta Noite Ilustrada-UWlcRCnfuPw.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Moça Criança - canta Noite Ilustrada-UWlcRCnfuPw.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Balada número 7( Noite Ilustrada)-QBgZmARXqAg.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Balada número 7( Noite Ilustrada)-QBgZmARXqAg.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Balada número 7( Noite Ilustrada)-QBgZmARXqAg.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Minha Rainha - Os Grandes Sucessos-hiT2RnQYQH4.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Minha Rainha - Os Grandes Sucessos-hiT2RnQYQH4.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Minha Rainha - Os Grandes Sucessos-hiT2RnQYQH4.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Leva Meu Samba - Atire A Primeira Pedra - Ai Que Sauda De Amélia-hJAQ4dtay3M.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Leva Meu Samba - Atire A Primeira Pedra - Ai Que Sauda De Amélia-hJAQ4dtay3M.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Leva Meu Samba - Atire A Primeira Pedra - Ai Que Sauda De Amélia-hJAQ4dtay3M.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Como eu era importante ao lado dela-9xDkuCHDYFY.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Como eu era importante ao lado dela-9xDkuCHDYFY.mp3
+Feb 19 18:40 : update: added Baixadas/Noite Ilustrada/Noite Ilustrada - Como eu era importante ao lado dela-9xDkuCHDYFY.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Com Homem Não Se Brinca-pCDJYn8oqFY.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Com Homem Não Se Brinca-pCDJYn8oqFY.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Com Homem Não Se Brinca-pCDJYn8oqFY.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Vingança-itZJYzBdkMY.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Vingança-itZJYzBdkMY.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER  -   LUZ NEGRA-LStHh3pbLfU.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Vingança-itZJYzBdkMY.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - SOSFORRÓ-JmTvlNwTxtg.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER  -   LUZ NEGRA-LStHh3pbLfU.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER  -   LUZ NEGRA-LStHh3pbLfU.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - Pouti-Pourri Matriz ou filial - Ela Disse-me Assim-HADGTp0GwsI.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - SOSFORRÓ-JmTvlNwTxtg.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER - MARCAS-SPJpU6DfRgQ.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - SOSFORRÓ-JmTvlNwTxtg.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER - FONTE DE CARINHO PIT-G47DHtkEojM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - Pouti-Pourri Matriz ou filial - Ela Disse-me Assim-HADGTp0GwsI.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Müller - Eu Tenho Pena de Você-o-iMP39jZ60.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - Pouti-Pourri Matriz ou filial - Ela Disse-me Assim-HADGTp0GwsI.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER - MARCAS-SPJpU6DfRgQ.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Müller- Foi Assim-PWAqy5UxXEI.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER - MARCAS-SPJpU6DfRgQ.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - Entre Espumas-V_Sgy4RKiyM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER - FONTE DE CARINHO PIT-G47DHtkEojM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER - VOCÊ JA FOI DESPEJADA-8E3wS5X6bPA.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER - FONTE DE CARINHO PIT-G47DHtkEojM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Müller - Eu Tenho Pena de Você-o-iMP39jZ60.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - Cigana-a0oO6cfCrf8.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Müller - Eu Tenho Pena de Você-o-iMP39jZ60.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Onde Andará-XxU7xKuaxvk.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Müller- Foi Assim-PWAqy5UxXEI.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - Colecionador de Chifres-9m1SrRqEYT0.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Müller- Foi Assim-PWAqy5UxXEI.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - Entre Espumas-V_Sgy4RKiyM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Fruto Amargo (Fruto Amargo)-HuF6-yRnudc.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - Entre Espumas-V_Sgy4RKiyM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER  -   VELHA MOÇA-_bGDe5N7BTE.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER - VOCÊ JA FOI DESPEJADA-8E3wS5X6bPA.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Eu tenho pena de você - Roberto Muller-46LLYKDbwwk.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER - VOCÊ JA FOI DESPEJADA-8E3wS5X6bPA.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - Cigana-a0oO6cfCrf8.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller-Nunca Mais Brigarei Contigo.-f4mCWUr2O1k.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - Cigana-a0oO6cfCrf8.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Onde Andará-XxU7xKuaxvk.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Onde Andará-XxU7xKuaxvk.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - Colecionador de Chifres-9m1SrRqEYT0.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller - Colecionador de Chifres-9m1SrRqEYT0.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Fruto Amargo (Fruto Amargo)-HuF6-yRnudc.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Fruto Amargo (Fruto Amargo)-HuF6-yRnudc.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER  -   VELHA MOÇA-_bGDe5N7BTE.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/ROBERTO MULLER  -   VELHA MOÇA-_bGDe5N7BTE.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Eu tenho pena de você - Roberto Muller-46LLYKDbwwk.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Eu tenho pena de você - Roberto Muller-46LLYKDbwwk.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller-Nunca Mais Brigarei Contigo.-f4mCWUr2O1k.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Muller/Roberto Muller-Nunca Mais Brigarei Contigo.-f4mCWUr2O1k.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia — Negue-ApXp4FERe80.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/ONDE ESTARÁ O MEU AMOR - MARIA BETHÂNIA-zS-GkiZ1zXI.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Não Mexe Comigo - Carta de Amor - DVD Carta de Amor - Maria Bethânia-tjZgiXwDxwQ.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Fera Ferida' (Ao Vivo) - Maricotinha Ao Vivo-wnTUdw3nIgU.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethania - 'Olha'-tqSaNvANjxw.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Brincar de viver - Maria Bethânia-OEyjM6abNuo.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Canto de Oxum Iemanjá, Rainha do Mar (Maria Bethânia 2006)-5e3yNxCWxFk.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - É o Amor-37S5AKmot8k.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - A Felicidade-mdG7b2bOTmY.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Casinha Branca - Maria Bethânia-q8Z-0dBOClw.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia e Adriana Calcanhotto - Depois De Ter Você-9DdtmGA-RlE.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Quem me Leva os Meus Fantasmas' (Ao Vivo) – Carta de Amor-rgMWyJxIIJo.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia  - Olhos nos olhos-z-Ww20KPvZ4.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'As Canções Que Você Fez Para Mim' (Ao Vivo) - Noite Luzidia-tdjY18DnrWM.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Reconvexo' (Ao Vivo) – Amor Festa Devoção-YPO1iaetL2I.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - Eu nao existe sem voce-dpiC2uHgKpE.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia — Negue-ApXp4FERe80.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Carta de Amor' (Ao Vivo) – Carta de Amor-Zi2cb9cK4M8.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - Sensivel Demais-Mv47VtRm0bY.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/ONDE ESTARÁ O MEU AMOR - MARIA BETHÂNIA-zS-GkiZ1zXI.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Não Mexe Comigo - Carta de Amor - DVD Carta de Amor - Maria Bethânia-tjZgiXwDxwQ.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro   Aqui Estou Eu-yyibG04W3Bc.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Jose Ribeiro - Tive tanta confiança-i2_KfNTL91g.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Fera Ferida' (Ao Vivo) - Maricotinha Ao Vivo-wnTUdw3nIgU.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro- Sandra-hmPs9gQ3Vks.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethania - 'Olha'-tqSaNvANjxw.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia — Negue-ApXp4FERe80.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Um Amor Vai, Outro Vem-gtttAGVGyfk.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/ONDE ESTARÁ O MEU AMOR - MARIA BETHÂNIA-zS-GkiZ1zXI.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Brincar de viver - Maria Bethânia-OEyjM6abNuo.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSÉ RIBEIRO   Quando Brigas Comigo-jGQ50hghw6E.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Não Mexe Comigo - Carta de Amor - DVD Carta de Amor - Maria Bethânia-tjZgiXwDxwQ.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Canto de Oxum Iemanjá, Rainha do Mar (Maria Bethânia 2006)-5e3yNxCWxFk.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Fera Ferida' (Ao Vivo) - Maricotinha Ao Vivo-wnTUdw3nIgU.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Sou eu... José Ribeiro-DLa36Xrpc0M.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethania - 'Olha'-tqSaNvANjxw.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - É o Amor-37S5AKmot8k.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Brincar de viver - Maria Bethânia-OEyjM6abNuo.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro 'meu coração que não te esquece'--VWWqA1EbaE.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Canto de Oxum Iemanjá, Rainha do Mar (Maria Bethânia 2006)-5e3yNxCWxFk.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - A Felicidade-mdG7b2bOTmY.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - Na porta da cozinha-TwvAOxxhL2s.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - É o Amor-37S5AKmot8k.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Casinha Branca - Maria Bethânia-q8Z-0dBOClw.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - A Felicidade-mdG7b2bOTmY.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - Culpada 1965 (Primeiro Disco)-O6ZkUvPlOq4.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Casinha Branca - Maria Bethânia-q8Z-0dBOClw.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia e Adriana Calcanhotto - Depois De Ter Você-9DdtmGA-RlE.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia e Adriana Calcanhotto - Depois De Ter Você-9DdtmGA-RlE.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Quando brigas comigo - José Ribeiro-rH4ttMS9Qgc.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Quem me Leva os Meus Fantasmas' (Ao Vivo) – Carta de Amor-rgMWyJxIIJo.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Quem me Leva os Meus Fantasmas' (Ao Vivo) – Carta de Amor-rgMWyJxIIJo.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - fingida-quDm6p-LnyI.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia  - Olhos nos olhos-z-Ww20KPvZ4.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia  - Olhos nos olhos-z-Ww20KPvZ4.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'As Canções Que Você Fez Para Mim' (Ao Vivo) - Noite Luzidia-tdjY18DnrWM.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSE RIBEIRO - ORAÇÃO DE AMOR.avi-Eh0de2VC6PA.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Reconvexo' (Ao Vivo) – Amor Festa Devoção-YPO1iaetL2I.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'As Canções Que Você Fez Para Mim' (Ao Vivo) - Noite Luzidia-tdjY18DnrWM.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - Eu nao existe sem voce-dpiC2uHgKpE.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSÉ RIBEIRO   Um Minuto É O Bastante-q4c-53_vngQ.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Reconvexo' (Ao Vivo) – Amor Festa Devoção-YPO1iaetL2I.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Carta de Amor' (Ao Vivo) – Carta de Amor-Zi2cb9cK4M8.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - Sensivel Demais-Mv47VtRm0bY.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - Eu nao existe sem voce-dpiC2uHgKpE.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Erro de Matrimônio-TwjmLJ_yGzs.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - 'Carta de Amor' (Ao Vivo) – Carta de Amor-Zi2cb9cK4M8.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSE RIBEIRO - PENSANDO MARISA-N20D4-hDiDg.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro   Aqui Estou Eu-yyibG04W3Bc.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Jose Ribeiro - Tive tanta confiança-i2_KfNTL91g.mp3
+Feb 19 18:40 : update: added Baixadas/Maria Betania/Maria Bethânia - Sensivel Demais-Mv47VtRm0bY.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - A Beleza da Rosa (1972)-acXjb-1h4C8.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro- Sandra-hmPs9gQ3Vks.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Um Amor Vai, Outro Vem-gtttAGVGyfk.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - Apenas um trago (Bom dia, meu amor)-WWKr6KDef_k.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSÉ RIBEIRO   Quando Brigas Comigo-jGQ50hghw6E.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro   Aqui Estou Eu-yyibG04W3Bc.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Sou eu... José Ribeiro-DLa36Xrpc0M.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSE RIBEIRO - O BEIJO.avi-7wT1qzj-Ct0.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro 'meu coração que não te esquece'--VWWqA1EbaE.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Jose Ribeiro - Tive tanta confiança-i2_KfNTL91g.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro-Lágrimas Nos Ollhos.-QHQ_61K7qv4.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - Na porta da cozinha-TwvAOxxhL2s.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - Culpada 1965 (Primeiro Disco)-O6ZkUvPlOq4.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro- Sandra-hmPs9gQ3Vks.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Quando brigas comigo - José Ribeiro-rH4ttMS9Qgc.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Um Amor Vai, Outro Vem-gtttAGVGyfk.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - fingida-quDm6p-LnyI.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/13 - ALCIONE - QUALQUER DIA DESSES [HD 640x360 XVID Wide Screen].avi-PBxnSI41-XU.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSE RIBEIRO - ORAÇÃO DE AMOR.avi-Eh0de2VC6PA.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSÉ RIBEIRO   Quando Brigas Comigo-jGQ50hghw6E.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSÉ RIBEIRO   Um Minuto É O Bastante-q4c-53_vngQ.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione _ Você Me Vira A Cabeça Me Tira Do Sério-Y10qW6PI-Hs.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Erro de Matrimônio-TwjmLJ_yGzs.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Sou eu... José Ribeiro-DLa36Xrpc0M.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Ou Ela ou Eu-jVkxaERd8k4.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSE RIBEIRO - PENSANDO MARISA-N20D4-hDiDg.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro 'meu coração que não te esquece'--VWWqA1EbaE.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - A Beleza da Rosa (1972)-acXjb-1h4C8.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione   Meu Ébano-Wo_KbGmrvIg.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - Apenas um trago (Bom dia, meu amor)-WWKr6KDef_k.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - Na porta da cozinha-TwvAOxxhL2s.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSE RIBEIRO - O BEIJO.avi-7wT1qzj-Ct0.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Estranha Loucura-IN1foTAKimw.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro-Lágrimas Nos Ollhos.-QHQ_61K7qv4.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - Culpada 1965 (Primeiro Disco)-O6ZkUvPlOq4.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/A Loba - Alcione-_T0GKQ9i5Vs.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Quando brigas comigo - José Ribeiro-rH4ttMS9Qgc.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/13 - ALCIONE - QUALQUER DIA DESSES [HD 640x360 XVID Wide Screen].avi-PBxnSI41-XU.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Além da cama-kVeW6zhdr3s.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione _ Você Me Vira A Cabeça Me Tira Do Sério-Y10qW6PI-Hs.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - fingida-quDm6p-LnyI.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Ou Ela ou Eu-jVkxaERd8k4.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/ALCIONE NÃO DEIXE O SAMBA MORRER-PANDEIRO É MEU NOME-_TnLPDG8ZMA.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSE RIBEIRO - ORAÇÃO DE AMOR.avi-Eh0de2VC6PA.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione   Meu Ébano-Wo_KbGmrvIg.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Estranha Loucura-IN1foTAKimw.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Entidade-XABiKQbPg94.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSÉ RIBEIRO   Um Minuto É O Bastante-q4c-53_vngQ.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/A Loba - Alcione-_T0GKQ9i5Vs.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/Erro de Matrimônio-TwjmLJ_yGzs.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Meu vício é voce-gMOo-H0A1no.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Além da cama-kVeW6zhdr3s.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/ALCIONE NÃO DEIXE O SAMBA MORRER-PANDEIRO É MEU NOME-_TnLPDG8ZMA.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSE RIBEIRO - PENSANDO MARISA-N20D4-hDiDg.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Sufoco-e_xOLBPzZ_w.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Entidade-XABiKQbPg94.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - A Beleza da Rosa (1972)-acXjb-1h4C8.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Salve Jorge - Amor Surreal - Alcione-6U_iSPm2duk.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Meu vício é voce-gMOo-H0A1no.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro - Apenas um trago (Bom dia, meu amor)-WWKr6KDef_k.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Sufoco-e_xOLBPzZ_w.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Coração de Porcelana-RRFRIavVn6c.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Salve Jorge - Amor Surreal - Alcione-6U_iSPm2duk.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/JOSE RIBEIRO - O BEIJO.avi-7wT1qzj-Ct0.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Coração de Porcelana-RRFRIavVn6c.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Garoto Maroto-rm9mXQoyUAg.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Garoto Maroto-rm9mXQoyUAg.mp3
+Feb 19 18:40 : update: added Baixadas/Jose Ribeiro/José Ribeiro-Lágrimas Nos Ollhos.-QHQ_61K7qv4.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Chora coração-u8N9SKZZzMs.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Chora coração-u8N9SKZZzMs.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/13 - ALCIONE - QUALQUER DIA DESSES [HD 640x360 XVID Wide Screen].avi-PBxnSI41-XU.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione _ Você Me Vira A Cabeça Me Tira Do Sério-Y10qW6PI-Hs.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Ou Ela ou Eu-jVkxaERd8k4.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione   Meu Ébano-Wo_KbGmrvIg.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Estranha Loucura-IN1foTAKimw.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/A Loba - Alcione-_T0GKQ9i5Vs.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Custe o que custar-qW-Sa6GZTtI.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Além da cama-kVeW6zhdr3s.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/FAGNER - ROMANCE NO DESERTO-IjedLg1csw0.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/ALCIONE NÃO DEIXE O SAMBA MORRER-PANDEIRO É MEU NOME-_TnLPDG8ZMA.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Jura Secreta (Video Ao Vivo)-N1FIy7eKYFM.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Borbulhas de amor-L9ebXp61y7I.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Entidade-XABiKQbPg94.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Súplica Cearense (Live Video)-tTSet9-73kE.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Meu vício é voce-gMOo-H0A1no.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/NOTURNO - FAGNER-0xZqBAHFRhg.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Lembrança de um beijo-Mhnze6ydf5k.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Sufoco-e_xOLBPzZ_w.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Custe o que custar-qW-Sa6GZTtI.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Mucuripe (Video Ao Vivo)-Qs96sm4gV7E.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Salve Jorge - Amor Surreal - Alcione-6U_iSPm2duk.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/FAGNER - ESPUMAS AO VENTO.wmv-eqR6apoVkGw.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/FAGNER - ROMANCE NO DESERTO-IjedLg1csw0.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Coração de Porcelana-RRFRIavVn6c.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Deslizes (Video Ao Vivo)-jvgkiurPmZk.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Jura Secreta (Video Ao Vivo)-N1FIy7eKYFM.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/da Cor do Pecado - Dezembros - Fagner-HfD-Ifya_iM.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Garoto Maroto-rm9mXQoyUAg.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/RAIMUNDO FAGNER - E NÃO VOU DEIXAR VOCÊ TÃO SÓ-nSA5tbwAYBY.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Borbulhas de amor-L9ebXp61y7I.mp3
+Feb 19 18:40 : update: added Baixadas/Alcione/Alcione - Chora coração-u8N9SKZZzMs.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Revelação (Video Ao Vivo)-Qfd0XCexKFI.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Súplica Cearense (Live Video)-tTSet9-73kE.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Retrovisor (Pseudo Video)-IQ-NFI7yPR0.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Jardim Dos Animais--ViVV6ChcHA.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/NOTURNO - FAGNER-0xZqBAHFRhg.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Lembrança de um beijo-Mhnze6ydf5k.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Mucuripe (Video Ao Vivo)-Qs96sm4gV7E.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/FAGNER - ESPUMAS AO VENTO.wmv-eqR6apoVkGw.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Deslizes (Video Ao Vivo)-jvgkiurPmZk.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Gracias por Ser mi Princesa Angela María--Mho2kuOkw0.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/da Cor do Pecado - Dezembros - Fagner-HfD-Ifya_iM.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria canta 'Não me culpe' (Dolores Duran)-EYpAqL_qgqA.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/ÂNGELA MARIA  -   FOI DEUS  1962-2M8AHtb4Klc.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/RAIMUNDO FAGNER - E NÃO VOU DEIXAR VOCÊ TÃO SÓ-nSA5tbwAYBY.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria - MEU EX AMOR - samba-canção de Adelino Moreira - gravação de 1962-U4zFmfr6X4c.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Revelação (Video Ao Vivo)-Qfd0XCexKFI.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria - Abandono-nk_sUJggo1I.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria   Tango Para Tereza-9q00nQob-Es.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Retrovisor (Pseudo Video)-IQ-NFI7yPR0.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Orgulho - Ângela Maria-zvkQIjxsYOc.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Jardim Dos Animais--ViVV6ChcHA.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Ângela Maria - Foi Deus-K7aO8--V63k.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Custe o que custar-qW-Sa6GZTtI.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria 1957 'Mentindo'-8L8EttjGyp0.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/FAGNER - ROMANCE NO DESERTO-IjedLg1csw0.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/MOÇA BONITA   ANGELA MARIA-rX0OR7SgrUc.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria - Falhaste Coração-8BjfPp8tg-4.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Jura Secreta (Video Ao Vivo)-N1FIy7eKYFM.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/ÂNGELA MARIA    -   CINDERELA   1965-okGwYF7sJEw.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Borbulhas de amor-L9ebXp61y7I.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Ângela Maria e Antonio Aguillar - Cielito Lindo-rVQ1XJ0GYdY.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/ANGELA MARIA   GENTE HUMILDE-gTvqpWdFh5U.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Súplica Cearense (Live Video)-tTSet9-73kE.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria - Babalu-nmRC1EHOLAU.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/NOTURNO - FAGNER-0xZqBAHFRhg.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/ÂNGELA MARIA - AI, MOURARIA-aHcUjRjGDnM.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Vídeo de Nº 065 - GAROTA SOLITÁRIA - Angela Maria-rGqVvOGjT4g.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Lembrança de um beijo-Mhnze6ydf5k.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Mucuripe (Video Ao Vivo)-Qs96sm4gV7E.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Debaixo dos caracóis dos seus cabelos-DzJXvEPzxLM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Sereia (Videoclipe)-cNmsncBEfdI.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Gracias por Ser mi Princesa Angela María--Mho2kuOkw0.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/FAGNER - ESPUMAS AO VENTO.wmv-eqR6apoVkGw.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos-O grande amor da minha vida.wmv-ggRJrs2xtMM.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria canta 'Não me culpe' (Dolores Duran)-EYpAqL_qgqA.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Deslizes (Video Ao Vivo)-jvgkiurPmZk.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Detalhes (Vídeo Ao Vivo)-54xxnkXqltw.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Como é Grande o Meu Amor por Você (Vídeo Ao Vivo)-IWAxEpyM3q4.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/da Cor do Pecado - Dezembros - Fagner-HfD-Ifya_iM.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/ÂNGELA MARIA  -   FOI DEUS  1962-2M8AHtb4Klc.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Quando (Rooftop concert antes dos Beatles)-wdW2Eo7xY5w.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/RAIMUNDO FAGNER - E NÃO VOU DEIXAR VOCÊ TÃO SÓ-nSA5tbwAYBY.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Rotina (1973)-oD70VRWFZSw.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria - MEU EX AMOR - samba-canção de Adelino Moreira - gravação de 1962-U4zFmfr6X4c.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Se eu partir-f1I7EDDXc1Q.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Revelação (Video Ao Vivo)-Qfd0XCexKFI.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Outra Vez - Você Foi - Roberto Carlos-LjzGui-3eQc.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria - Abandono-nk_sUJggo1I.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Nossa Senhora - Roberto Carlos-mnjYLD9vKF0.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Retrovisor (Pseudo Video)-IQ-NFI7yPR0.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria   Tango Para Tereza-9q00nQob-Es.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Amor Perfeito (Vídeo Ao Vivo)--hi8JbL2wdY.mp3
+Feb 19 18:40 : update: added Baixadas/Fagner/Fagner - Jardim Dos Animais--ViVV6ChcHA.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - As flores do jardim da nossa casa-8jm6mQeInpU.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Orgulho - Ângela Maria-zvkQIjxsYOc.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos. Luz divina-JY-h6Tbn39s.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Ângela Maria - Foi Deus-K7aO8--V63k.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Sua Estupidez (Áudio Oficial)-4pImO_uIXrQ.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Pensamentos (1983)-8jnpM10LZIA.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria 1957 'Mentindo'-8L8EttjGyp0.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Como é Bom Saber (Áudio Oficial)-MTi6uTL7sEY.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/MOÇA BONITA   ANGELA MARIA-rX0OR7SgrUc.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/roberto carlos - jesus cristo-IrPfRyypsws.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Café da manhã - Com letra-U-HdmIqx0-c.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria - Falhaste Coração-8BjfPp8tg-4.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos Esse Cara Sou Eu a letra tema de Theo e Morena em salve o jorge-jKUcRaRrMhI.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/ÂNGELA MARIA    -   CINDERELA   1965-okGwYF7sJEw.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - O homem ♫-dJm4yCyUnuU.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos (Como vai você)-mt_a3DIQnsg.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Ângela Maria e Antonio Aguillar - Cielito Lindo-rVQ1XJ0GYdY.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/ROBERTO CARLOS - AS BALEIAS.-1AqS1Deahgg.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos Amor Sem Limites-fCBjEvG7tz8.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/ANGELA MARIA   GENTE HUMILDE-gTvqpWdFh5U.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos O Divã - the divan 1972 original-XlAx9_QD0oc.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria - Babalu-nmRC1EHOLAU.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Gracias por Ser mi Princesa Angela María--Mho2kuOkw0.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Eu Te Darei o Céu - Roberto Carlos (Lp Mono 1966)-edmRcDrRj2g.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Os Sete Cabeludos (Áudio Oficial)-EttjCVd4GNk.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria canta 'Não me culpe' (Dolores Duran)-EYpAqL_qgqA.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/ÂNGELA MARIA - AI, MOURARIA-aHcUjRjGDnM.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/ÂNGELA MARIA  -   FOI DEUS  1962-2M8AHtb4Klc.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Vídeo de Nº 065 - GAROTA SOLITÁRIA - Angela Maria-rGqVvOGjT4g.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra Seja Feliz-6iICQg7qpD0.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Vai Curtir, Vai Dançar part. Wesley Safadão (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-zaRhSszSHCE.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria - MEU EX AMOR - samba-canção de Adelino Moreira - gravação de 1962-U4zFmfr6X4c.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra-Não vou mais deixar você tão só-DYL3AFoRx_8.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Debaixo dos caracóis dos seus cabelos-DzJXvEPzxLM.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria - Abandono-nk_sUJggo1I.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Cheia De Manias (DVD Raça Negra & Amigos) [Video Oficial]-uJz0F36TGoc.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - E Agora - Part. Juliana Bandeira (DVD Raça Negra & Amigos) [Video Oficial]-BbHRyLWYoXM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Sereia (Videoclipe)-cNmsncBEfdI.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria   Tango Para Tereza-9q00nQob-Es.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Ela _ Perdoa (DVD Raça Negra & Amigos) [Video Oficial]-Zg_-OYX3sok.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos-O grande amor da minha vida.wmv-ggRJrs2xtMM.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Orgulho - Ângela Maria-zvkQIjxsYOc.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Quando Te Encontrei - Part. Alexandre Pires (DVD Raça Negra & Amigos) [Video Oficial]-ZsQH8fASvFU.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Cigana part. Wesley Safadão (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-4ESVsb6Q85c.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Detalhes (Vídeo Ao Vivo)-54xxnkXqltw.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Ângela Maria - Foi Deus-K7aO8--V63k.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Me Leva Junto Com Você (Raça Negra & Amigos 2) [Vídeo Oficial]-WsMEtX2NtYw.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Como é Grande o Meu Amor por Você (Vídeo Ao Vivo)-IWAxEpyM3q4.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria 1957 'Mentindo'-8L8EttjGyp0.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - É Tarde Demais part. Leonardo (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-2E1gDZ1ENpQ.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Vida Cigana (DVD Raça Negra & Amigos) [Video Oficial]-EKrTlyWpd24.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Quando (Rooftop concert antes dos Beatles)-wdW2Eo7xY5w.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/MOÇA BONITA   ANGELA MARIA-rX0OR7SgrUc.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Deus Me Livre part. Léo Magalhães (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-25xhtlSVqNM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Rotina (1973)-oD70VRWFZSw.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria - Falhaste Coração-8BjfPp8tg-4.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Sozinho_Estou Mal_Volta (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-fVFp1fRFZNU.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Maravilha part. Bruno & Marrone (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-4CynwpNjDZo.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Se eu partir-f1I7EDDXc1Q.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/ÂNGELA MARIA    -   CINDERELA   1965-okGwYF7sJEw.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Não Posso Dizer Adeus - Part.  Raffa (DVD Raça Negra & Amigos) [Video Oficial]-fst7HGE5Ms8.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Outra Vez - Você Foi - Roberto Carlos-LjzGui-3eQc.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Ângela Maria e Antonio Aguillar - Cielito Lindo-rVQ1XJ0GYdY.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Preciso Ter Alguém (Ao Vivo)--cnEfJTwNfs.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Nossa Senhora - Roberto Carlos-mnjYLD9vKF0.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Você Não Sabe De Mim (Ao Vivo)-Wfjh9y-ph4I.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/ANGELA MARIA   GENTE HUMILDE-gTvqpWdFh5U.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - A Vida Inteira part. Eduardo Costa (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-gMFA2bA3AHo.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Amor Perfeito (Vídeo Ao Vivo)--hi8JbL2wdY.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Angela Maria - Babalu-nmRC1EHOLAU.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raiva de você (Raça Negra)-urVkYtWT6rA.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Preciso Desse Amor (Ao Vivo)-EljrPtbp5g8.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - As flores do jardim da nossa casa-8jm6mQeInpU.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/ÂNGELA MARIA - AI, MOURARIA-aHcUjRjGDnM.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Correnteza De Emoção (Ao Vivo)-OXV3jXnhWt8.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Dono do Seu Beijo Part. Xand Avião (DVD Raça Negra & Amigos 2) [Video Oficial]-4p0NI2tOmkE.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos. Luz divina-JY-h6Tbn39s.mp3
+Feb 19 18:40 : update: added Baixadas/Angela Maria/Vídeo de Nº 065 - GAROTA SOLITÁRIA - Angela Maria-rGqVvOGjT4g.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Preciso Dar Um Tempo (Raça Negra, Vol. 9) [Áudio Oficial]-R9B5r5MsLHg.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Sua Estupidez (Áudio Oficial)-4pImO_uIXrQ.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Doce Paixão _ Caroline  - Part. Bruno Cardoso (DVD Raça Negra & Amigos) [Video Oficial]-n2Z_hQ4i69c.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Pensamentos (1983)-8jnpM10LZIA.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Debaixo dos caracóis dos seus cabelos-DzJXvEPzxLM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Sereia (Videoclipe)-cNmsncBEfdI.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Como é Bom Saber (Áudio Oficial)-MTi6uTL7sEY.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos-O grande amor da minha vida.wmv-ggRJrs2xtMM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/roberto carlos - jesus cristo-IrPfRyypsws.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Detalhes (Vídeo Ao Vivo)-54xxnkXqltw.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Café da manhã - Com letra-U-HdmIqx0-c.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Como é Grande o Meu Amor por Você (Vídeo Ao Vivo)-IWAxEpyM3q4.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos Esse Cara Sou Eu a letra tema de Theo e Morena em salve o jorge-jKUcRaRrMhI.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Quando (Rooftop concert antes dos Beatles)-wdW2Eo7xY5w.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - O homem ♫-dJm4yCyUnuU.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Rotina (1973)-oD70VRWFZSw.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos (Como vai você)-mt_a3DIQnsg.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/ROBERTO CARLOS - AS BALEIAS.-1AqS1Deahgg.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Se eu partir-f1I7EDDXc1Q.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos Amor Sem Limites-fCBjEvG7tz8.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Outra Vez - Você Foi - Roberto Carlos-LjzGui-3eQc.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Nossa Senhora - Roberto Carlos-mnjYLD9vKF0.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos O Divã - the divan 1972 original-XlAx9_QD0oc.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Eu Te Darei o Céu - Roberto Carlos (Lp Mono 1966)-edmRcDrRj2g.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Amor Perfeito (Vídeo Ao Vivo)--hi8JbL2wdY.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - As flores do jardim da nossa casa-8jm6mQeInpU.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Os Sete Cabeludos (Áudio Oficial)-EttjCVd4GNk.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos. Luz divina-JY-h6Tbn39s.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Sua Estupidez (Áudio Oficial)-4pImO_uIXrQ.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra Seja Feliz-6iICQg7qpD0.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Pensamentos (1983)-8jnpM10LZIA.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Vai Curtir, Vai Dançar part. Wesley Safadão (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-zaRhSszSHCE.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Como é Bom Saber (Áudio Oficial)-MTi6uTL7sEY.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra-Não vou mais deixar você tão só-DYL3AFoRx_8.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/roberto carlos - jesus cristo-IrPfRyypsws.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Cheia De Manias (DVD Raça Negra & Amigos) [Video Oficial]-uJz0F36TGoc.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - E Agora - Part. Juliana Bandeira (DVD Raça Negra & Amigos) [Video Oficial]-BbHRyLWYoXM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Café da manhã - Com letra-U-HdmIqx0-c.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Ela _ Perdoa (DVD Raça Negra & Amigos) [Video Oficial]-Zg_-OYX3sok.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos Esse Cara Sou Eu a letra tema de Theo e Morena em salve o jorge-jKUcRaRrMhI.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Quando Te Encontrei - Part. Alexandre Pires (DVD Raça Negra & Amigos) [Video Oficial]-ZsQH8fASvFU.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - O homem ♫-dJm4yCyUnuU.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Cigana part. Wesley Safadão (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-4ESVsb6Q85c.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos (Como vai você)-mt_a3DIQnsg.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/ROBERTO CARLOS - AS BALEIAS.-1AqS1Deahgg.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos Amor Sem Limites-fCBjEvG7tz8.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Me Leva Junto Com Você (Raça Negra & Amigos 2) [Vídeo Oficial]-WsMEtX2NtYw.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos O Divã - the divan 1972 original-XlAx9_QD0oc.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - É Tarde Demais part. Leonardo (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-2E1gDZ1ENpQ.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Vida Cigana (DVD Raça Negra & Amigos) [Video Oficial]-EKrTlyWpd24.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Deus Me Livre part. Léo Magalhães (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-25xhtlSVqNM.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Eu Te Darei o Céu - Roberto Carlos (Lp Mono 1966)-edmRcDrRj2g.mp3
+Feb 19 18:40 : update: added Baixadas/Roberto Carlos/Roberto Carlos - Os Sete Cabeludos (Áudio Oficial)-EttjCVd4GNk.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Sozinho_Estou Mal_Volta (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-fVFp1fRFZNU.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Maravilha part. Bruno & Marrone (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-4CynwpNjDZo.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Não Posso Dizer Adeus - Part.  Raffa (DVD Raça Negra & Amigos) [Video Oficial]-fst7HGE5Ms8.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra Seja Feliz-6iICQg7qpD0.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Preciso Ter Alguém (Ao Vivo)--cnEfJTwNfs.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Vai Curtir, Vai Dançar part. Wesley Safadão (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-zaRhSszSHCE.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Você Não Sabe De Mim (Ao Vivo)-Wfjh9y-ph4I.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra-Não vou mais deixar você tão só-DYL3AFoRx_8.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - A Vida Inteira part. Eduardo Costa (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-gMFA2bA3AHo.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Cheia De Manias (DVD Raça Negra & Amigos) [Video Oficial]-uJz0F36TGoc.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raiva de você (Raça Negra)-urVkYtWT6rA.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - E Agora - Part. Juliana Bandeira (DVD Raça Negra & Amigos) [Video Oficial]-BbHRyLWYoXM.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Preciso Desse Amor (Ao Vivo)-EljrPtbp5g8.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Ela _ Perdoa (DVD Raça Negra & Amigos) [Video Oficial]-Zg_-OYX3sok.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Correnteza De Emoção (Ao Vivo)-OXV3jXnhWt8.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Quando Te Encontrei - Part. Alexandre Pires (DVD Raça Negra & Amigos) [Video Oficial]-ZsQH8fASvFU.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Dono do Seu Beijo Part. Xand Avião (DVD Raça Negra & Amigos 2) [Video Oficial]-4p0NI2tOmkE.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Cigana part. Wesley Safadão (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-4ESVsb6Q85c.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Preciso Dar Um Tempo (Raça Negra, Vol. 9) [Áudio Oficial]-R9B5r5MsLHg.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Me Leva Junto Com Você (Raça Negra & Amigos 2) [Vídeo Oficial]-WsMEtX2NtYw.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Doce Paixão _ Caroline  - Part. Bruno Cardoso (DVD Raça Negra & Amigos) [Video Oficial]-n2Z_hQ4i69c.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - É Tarde Demais part. Leonardo (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-2E1gDZ1ENpQ.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Vida Cigana (DVD Raça Negra & Amigos) [Video Oficial]-EKrTlyWpd24.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Deus Me Livre part. Léo Magalhães (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-25xhtlSVqNM.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Sozinho_Estou Mal_Volta (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-fVFp1fRFZNU.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Maravilha part. Bruno & Marrone (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-4CynwpNjDZo.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Não Posso Dizer Adeus - Part.  Raffa (DVD Raça Negra & Amigos) [Video Oficial]-fst7HGE5Ms8.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Preciso Ter Alguém (Ao Vivo)--cnEfJTwNfs.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Você Não Sabe De Mim (Ao Vivo)-Wfjh9y-ph4I.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - A Vida Inteira part. Eduardo Costa (DVD Raça Negra & Amigos 2) [Vídeo Oficial]-gMFA2bA3AHo.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raiva de você (Raça Negra)-urVkYtWT6rA.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Preciso Desse Amor (Ao Vivo)-EljrPtbp5g8.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Correnteza De Emoção (Ao Vivo)-OXV3jXnhWt8.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Dono do Seu Beijo Part. Xand Avião (DVD Raça Negra & Amigos 2) [Video Oficial]-4p0NI2tOmkE.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Preciso Dar Um Tempo (Raça Negra, Vol. 9) [Áudio Oficial]-R9B5r5MsLHg.mp3
+Feb 19 18:40 : update: added Baixadas/Raça Negra/Raça Negra - Doce Paixão _ Caroline  - Part. Bruno Cardoso (DVD Raça Negra & Amigos) [Video Oficial]-n2Z_hQ4i69c.mp3
+Feb 19 18:40 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 18:40 : update: added /The Willow Maid - Erutan.m4a
+Feb 19 18:40 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 18:40 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 18:40 : update: added /The Willow Maid - Erutan.m4a
+Feb 19 18:40 : update: added /The Willow Maid - Erutan.m4a
+Feb 19 18:40 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 18:40 : client: [30] opened from [::1]:45964
+Feb 19 18:40 : client: [30] closed
+Feb 19 18:45 : client: [31] opened from 127.0.0.1:43074
+Feb 19 18:45 : client: [31] closed
+Feb 19 18:45 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 18:45 : client: [32] opened from 127.0.0.1:43076
+Feb 19 18:45 : client: [32] closed
+Feb 19 18:45 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 18:45 : client: [33] opened from [::1]:46192
+Feb 19 18:45 : client: [33] closed
+Feb 19 18:45 : client: [34] opened from 127.0.0.1:43080
+Feb 19 18:45 : client: [34] closed
+Feb 19 18:45 : client: [35] opened from [::1]:46196
+Feb 19 18:45 : client: [35] closed
+Feb 19 18:46 : client: [36] opened from 127.0.0.1:43084
+Feb 19 18:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 18:46 : client: [36] closed
+Feb 19 18:46 : client: [37] opened from [::1]:46200
+Feb 19 18:46 : client: [37] closed
+Feb 19 18:46 : client: [38] opened from 127.0.0.1:43088
+Feb 19 18:46 : client: [38] closed
+Feb 19 18:46 : client: [39] opened from 127.0.0.1:43090
+Feb 19 18:46 : client: [39] closed
+Feb 19 18:46 : client: [40] opened from 127.0.0.1:43092
+Feb 19 18:46 : client: [40] closed
+Feb 19 18:46 : client: [41] opened from [::1]:46208
+Feb 19 18:46 : client: [41] closed
+Feb 19 18:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 18:46 : client: [42] opened from [::1]:46210
+Feb 19 18:46 : client: [42] closed
+Feb 19 18:46 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 18:46 : client: [43] opened from 127.0.0.1:43100
+Feb 19 18:46 : client: [43] closed
+Feb 19 18:46 : client: [44] opened from [::1]:46216
+Feb 19 18:46 : client: [44] closed
+Feb 19 18:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 18:46 : client: [45] opened from [::1]:46218
+Feb 19 18:46 : client: [45] closed
+Feb 19 18:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 18:52 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 18:57 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 18:58 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 18:58 : client: [28] closed
+Feb 19 19:02 : client: [46] opened from 127.0.0.1:43416
+Feb 19 19:02 : client: [46] closed
+Feb 19 19:02 : client: [47] opened from 127.0.0.1:43418
+Feb 19 19:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 19:02 : client: [47] closed
+Feb 19 19:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 19:08 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 19:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 19:13 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 19:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 19:19 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 19:25 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 19:25 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 19:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 19:31 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 19:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 19:37 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 19:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 19:42 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 19:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 19:48 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 19:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 19:54 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 20:00 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 20:00 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 20:05 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 20:06 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 20:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 20:11 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 20:17 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 20:17 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 20:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 20:23 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 20:28 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 20:29 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 20:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 20:34 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 20:40 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 20:40 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 20:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 20:46 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 20:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 20:52 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 20:57 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 20:58 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 21:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 21:03 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 21:09 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 21:09 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 21:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 21:15 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 21:21 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 21:21 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 21:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 21:27 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 21:32 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 21:32 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 21:38 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 21:38 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 21:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 21:44 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 21:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 21:50 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 21:55 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 21:55 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 22:01 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 22:01 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 22:07 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 22:07 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 22:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 22:13 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 22:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 22:19 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 22:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 22:24 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 22:30 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 22:30 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 22:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 22:36 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 22:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 22:42 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 22:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 22:48 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 22:53 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 22:53 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 22:59 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 22:59 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 23:05 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 23:05 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 23:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 23:11 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 23:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 23:16 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 23:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 23:22 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 23:28 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 23:28 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 23:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 19 23:34 : player: played "The Willow Maid - Erutan.m4a"
+Feb 19 23:38 : client: [48] opened from 127.0.0.1:49114
+Feb 19 23:38 : client: [48] closed

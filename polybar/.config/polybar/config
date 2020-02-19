@@ -528,10 +528,10 @@ type = internal/mpd
 host = 127.0.0.1
 port = 6600
 
-interval = 2
+interval = 1
 
 ;format-online = <icon-prev> <icon-seekb> <icon-stop> <toggle> <icon-seekf> <icon-next>  <icon-repeat> <icon-random>  <bar-progress> <label-time>  <label-song>
-format-online = <label-song> <toggle> <icon-repeatone> <label-time> <icon-stop>
+format-online = <label-song> <icon-prev> <toggle> <icon-next> <icon-repeatone> <label-time> <icon-stop>
 format-offline = <label-offline>
 
 label-song = %{F#D08770}%{F-} %{F#eee8d5}%artist% - %title%%{F-}
@@ -544,8 +544,8 @@ icon-stop-foreground = ${colors.secondary}
 icon-play = 
 icon-pause = 
 icon-stop = 
-icon-prev = prev
-icon-next = next
+icon-prev = 
+icon-next = 
 icon-seekb = seekb
 icon-seekf = seekf
 icon-random = rdm

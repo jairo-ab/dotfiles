@@ -3,26 +3,26 @@ audio_device_state:1:Pulseaudio
 audio_device_state:1:my_fifo
 state: pause
 current: 12
-time: 75.674000
+time: 233.890000
 random: 0
-repeat: 0
-single: 0
+repeat: 1
+single: 1
 consume: 0
 crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:fruitloopz4eva - Blackmores Night I Still Rememb O5qlBi79svI.m4a
-1:Baixadas/Wanderley Cardoso/Agora Eu Sou Feliz ♫ _ WANDERLEY CARDOSO-RK3cEH02EbM.mp3
-2:Baixadas/Wanderley Cardoso/Historia de AMOR( Love Story )     Wanderley Cardoso-8i1p--f8TaE.mp3
-3:Baixadas/Claudia Barroso/' A vida é mesmo assim '  -  Claudia Barroso-lfrfkLNBj0U.mp3
-4:Baixadas/Claudia Barroso/' Quem mandou você errar ' - Claudia Barroso-Vc-RA40OUFE.mp3
-5:Baixadas/Waldik Soriano/EuNaoSouCachorroNAO-PxNmQYbbkco.mp3
-6:Baixadas/Waldik Soriano/TRAIÇÃO -  WALDICK SORIANO-UK_0lMtfNoY.mp3
-7:Baixadas/Waldik Soriano/Waldick Soriano - A Carta (1964)-Mr0_A9d24wE.mp3
-8:Baixadas/Waldik Soriano/Waldick Soriano - Quem eu quero não me quer-PPluE7pKtqw.mp3
-9:Baixadas/Waldik Soriano/Waldick Soriano - Tortura de Amor-7-kHtzijxtw.mp3
-10:Baixadas/Waldik Soriano/Waldik Soriano- Alvorada do Sertão-VyHxJGwl-CI.mp3
-11:Baixadas/Waldik Soriano/Waldik Soriano - Perfume de Gardenia - Conheça no Orkut a Comunidade - Forro Brega Brasil-BMhJI8BAXR0.mp3
-12:Baixadas/Agnaldo Timoteo/AGNALDO TIMÓTEO  -  A CASA DE IRENE 1965-WqyUP5xDKzY.mp3
+0:Baixadas/Wanderley Cardoso/Agora Eu Sou Feliz ♫ _ WANDERLEY CARDOSO-RK3cEH02EbM.mp3
+1:Baixadas/Wanderley Cardoso/Historia de AMOR( Love Story )     Wanderley Cardoso-8i1p--f8TaE.mp3
+2:Baixadas/Claudia Barroso/' A vida é mesmo assim '  -  Claudia Barroso-lfrfkLNBj0U.mp3
+3:Baixadas/Claudia Barroso/' Quem mandou você errar ' - Claudia Barroso-Vc-RA40OUFE.mp3
+4:Baixadas/Waldik Soriano/EuNaoSouCachorroNAO-PxNmQYbbkco.mp3
+5:Baixadas/Waldik Soriano/TRAIÇÃO -  WALDICK SORIANO-UK_0lMtfNoY.mp3
+6:Baixadas/Waldik Soriano/Waldick Soriano - A Carta (1964)-Mr0_A9d24wE.mp3
+7:Baixadas/Waldik Soriano/Waldick Soriano - Quem eu quero não me quer-PPluE7pKtqw.mp3
+8:Baixadas/Waldik Soriano/Waldick Soriano - Tortura de Amor-7-kHtzijxtw.mp3
+9:Baixadas/Waldik Soriano/Waldik Soriano- Alvorada do Sertão-VyHxJGwl-CI.mp3
+10:Baixadas/Waldik Soriano/Waldik Soriano - Perfume de Gardenia - Conheça no Orkut a Comunidade - Forro Brega Brasil-BMhJI8BAXR0.mp3
+11:Baixadas/Agnaldo Timoteo/AGNALDO TIMÓTEO  -  A CASA DE IRENE 1965-WqyUP5xDKzY.mp3
+12:The Willow Maid - Erutan.m4a
 playlist_end
