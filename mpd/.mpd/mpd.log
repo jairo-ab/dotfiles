@@ -1394,3 +1394,10 @@ Feb 18 22:13 : client: [5] opened from 127.0.0.1:49212
 Feb 18 22:14 : client: [5] closed
 Feb 18 22:14 : client: [6] opened from 127.0.0.1:49222
 Feb 19 03:00 : client: [6] closed
+Feb 19 11:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 11:11 : client: [0] opened from [::1]:48488
+Feb 19 11:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 11:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 11:11 : client: [1] opened from [::1]:48490
+Feb 19 11:11 : client: [1] closed
+Feb 19 11:11 : client: [0] closed
