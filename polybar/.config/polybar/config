@@ -399,7 +399,7 @@ interface = wlp3s0
 interval = 3.0
 
 format-connected-prefix = " "
-label-connected = %essid%
+label-connected = %essid% %downspeed:%
 format-disconnected-prefix = " "
 label-disconnected = offline
 
