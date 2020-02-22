@@ -139,7 +139,7 @@ font-1 = feather:style=Regular:pixelsize=9;2
 font-2 = FontAwesome:size=6;2
 font-3 = Termsynu:size=7;0
 
-modules-left = user
+modules-left =
 modules-center = window sep tv
 modules-right = cpu memory eth filesystem temperature data pulse monitor powermenu
 
@@ -172,7 +172,7 @@ module-margin-right = 1
 font-0 = Fantasque Sans Mono:style=Regular:pixelsize=9;2
 font-1 = feather:style=Regular:pixelsize=9;3
 
-modules-left = browser terminal vscode thunar telegram sep tdocker tmpd
+modules-left = browser terminal thunar telegram sep tmpd
 modules-center = mpd downloads
 modules-right = notes wallpaper screencast screenshot sep netled netledout hddled refresh lixo
 
