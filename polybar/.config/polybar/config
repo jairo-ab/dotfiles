@@ -534,7 +534,7 @@ interval = 1
 format-online = <label-song> <icon-prev> <toggle> <icon-next> <icon-repeatone> <label-time> <icon-stop>
 format-offline = <label-offline>
 
-label-song = %{F#D08770}%{F-} %{F#eee8d5}%artist% - %title%%{F-}
+label-song = %{F#D08770}%{F-} %artist% - %title%%{F-}
 label-offline = %{F#D08770}%{F-} %{F#eee8d5}mpd%{F-} 
 icon-play-foreground = ${colors.secondary}
 label-time-foreground = ${colors.principal
