@@ -18086,3 +18086,20 @@ Feb 24 23:27 : exception: RTIOThread could not get realtime scheduling, continui
 Feb 24 23:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
 Feb 24 23:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Feb 25 02:25 : player: played "The Willow Maid - Erutan.m4a"
+Feb 25 22:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 22:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 25 22:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 22:49 : player: played "The Willow Maid - Erutan.m4a"
+Feb 25 22:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 22:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 22:52 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 25 22:52 : client: [0] opened from 127.0.0.1:58282
+Feb 25 22:52 : client: [1] opened from 127.0.0.1:58284
+Feb 25 22:52 : client: [1] closed
+Feb 25 22:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 22:52 : client: [0] closed
+Feb 25 22:52 : client: [2] opened from 127.0.0.1:58286
+Feb 25 22:53 : client: [2] closed
+Feb 25 22:53 : client: [3] opened from 127.0.0.1:58288
+Feb 25 22:58 : player: played "The Willow Maid - Erutan.m4a"
+Feb 25 22:58 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
