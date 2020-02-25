@@ -18085,3 +18085,4 @@ Feb 23 02:10 : player: played "The Willow Maid - Erutan.m4a"
 Feb 24 23:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Feb 24 23:27 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
 Feb 24 23:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 02:25 : player: played "The Willow Maid - Erutan.m4a"
