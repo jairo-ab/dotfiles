@@ -18263,3 +18263,5 @@ Feb 26 16:24 : client: [11] opened from 127.0.0.1:42132
 Feb 26 16:24 : player: played "The Willow Maid - Erutan.m4a"
 Feb 26 16:24 : client: [11] closed
 Feb 26 16:24 : client: [10] closed
+Feb 26 19:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 19:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
