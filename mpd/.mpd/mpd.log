@@ -18123,3 +18123,37 @@ Feb 25 23:50 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
 Feb 25 23:50 : player: played "The Willow Maid - Erutan.m4a"
 Feb 25 23:55 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
 Feb 25 23:56 : player: played "The Willow Maid - Erutan.m4a"
+Feb 26 00:01 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 26 00:01 : player: played "The Willow Maid - Erutan.m4a"
+Feb 26 00:02 : client: [4] opened from 127.0.0.1:59740
+Feb 26 00:02 : client: [4] closed
+Feb 26 00:02 : client: [5] opened from 127.0.0.1:59744
+Feb 26 00:02 : client: [5] closed
+Feb 26 00:02 : client: [6] opened from 127.0.0.1:59746
+Feb 26 00:02 : client: [6] closed
+Feb 26 00:02 : client: [7] opened from 127.0.0.1:59748
+Feb 26 00:02 : client: [7] closed
+Feb 26 00:02 : client: [8] opened from 127.0.0.1:59750
+Feb 26 00:02 : client: [8] closed
+Feb 26 00:03 : client: [9] opened from 127.0.0.1:59752
+Feb 26 00:03 : client: [9] closed
+Feb 26 00:03 : client: [10] opened from 127.0.0.1:59754
+Feb 26 00:03 : client: [10] closed
+Feb 26 00:06 : player: played "Baixadas/Waldik Soriano/Waldick Soriano - A Carta (1964)-Mr0_A9d24wE.mp3"
+Feb 26 00:09 : player: played "Baixadas/Waldik Soriano/Waldick Soriano - A Carta (1964)-Mr0_A9d24wE.mp3"
+Feb 26 00:12 : player: played "Baixadas/Waldik Soriano/Waldick Soriano - A Carta (1964)-Mr0_A9d24wE.mp3"
+Feb 26 00:15 : player: played "Baixadas/Waldik Soriano/Waldick Soriano - A Carta (1964)-Mr0_A9d24wE.mp3"
+Feb 26 00:17 : client: [11] opened from 127.0.0.1:60210
+Feb 26 00:17 : client: [11] closed
+Feb 26 00:17 : client: [12] opened from 127.0.0.1:60212
+Feb 26 00:17 : client: [12] closed
+Feb 26 00:17 : client: [13] opened from 127.0.0.1:60214
+Feb 26 00:17 : client: [13] closed
+Feb 26 00:17 : client: [14] opened from 127.0.0.1:60216
+Feb 26 00:17 : client: [14] closed
+Feb 26 00:17 : client: [15] opened from 127.0.0.1:60218
+Feb 26 00:17 : client: [16] opened from 127.0.0.1:60220
+Feb 26 00:17 : client: [16] closed
+Feb 26 00:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 26 00:18 : client: [17] opened from 127.0.0.1:60222
+Feb 26 00:18 : client: [17] closed

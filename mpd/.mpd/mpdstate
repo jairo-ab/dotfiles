@@ -2,10 +2,10 @@ sw_volume: 100
 audio_device_state:1:Pulseaudio
 audio_device_state:1:my_fifo
 state: play
-current: 12
-time: 3.984000
+current: 13
+time: 4.098000
 random: 0
-repeat: 1
+repeat: 0
 single: 1
 consume: 0
 crossfade: 0
@@ -25,4 +25,5 @@ playlist_begin
 10:Baixadas/Waldik Soriano/Waldik Soriano - Perfume de Gardenia - Conheça no Orkut a Comunidade - Forro Brega Brasil-BMhJI8BAXR0.mp3
 11:Baixadas/Agnaldo Timoteo/AGNALDO TIMÓTEO  -  A CASA DE IRENE 1965-WqyUP5xDKzY.mp3
 12:The Willow Maid - Erutan.m4a
+13:fruitloopz4eva - Blackmores Night I Still Rememb O5qlBi79svI.m4a
 playlist_end
