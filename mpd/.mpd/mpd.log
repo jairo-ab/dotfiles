@@ -18228,3 +18228,31 @@ Feb 26 01:33 : client: [48] closed
 Feb 26 01:33 : client: [49] opened from 127.0.0.1:32880
 Feb 26 01:33 : client: [49] closed
 Feb 26 01:33 : client: [50] opened from 127.0.0.1:32882
+Feb 26 16:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 16:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 16:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 16:11 : client: [0] opened from 127.0.0.1:41562
+Feb 26 16:11 : client: [1] opened from 127.0.0.1:41564
+Feb 26 16:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 16:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 16:11 : client: [2] opened from 127.0.0.1:41566
+Feb 26 16:11 : client: [2] closed
+Feb 26 16:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 26 16:12 : client: [3] opened from 127.0.0.1:41568
+Feb 26 16:12 : client: [3] closed
+Feb 26 16:16 : client: [4] opened from 127.0.0.1:41644
+Feb 26 16:16 : client: [4] closed
+Feb 26 16:16 : client: [5] opened from 127.0.0.1:41646
+Feb 26 16:16 : client: [5] closed
+Feb 26 16:16 : client: [6] opened from 127.0.0.1:41648
+Feb 26 16:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 26 16:16 : client: [6] closed
+Feb 26 16:16 : client: [7] opened from 127.0.0.1:41650
+Feb 26 16:16 : client: [7] closed
+Feb 26 16:16 : client: [8] opened from 127.0.0.1:41652
+Feb 26 16:16 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 26 16:16 : client: [8] closed
+Feb 26 16:16 : client: [9] opened from 127.0.0.1:41654
+Feb 26 16:16 : client: [9] closed
+Feb 26 16:19 : client: [1] closed
+Feb 26 16:20 : client: [0] closed
