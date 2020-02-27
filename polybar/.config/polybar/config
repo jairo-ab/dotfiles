@@ -437,7 +437,7 @@ format-packetloss = <label-packetloss>
 ;   %linkspeed% [wired]
 ;label-connected = %downspeed:3% %upspeed:3%
 ;label-connected = %downspeed:%
-label-connected = conectado
+label-connected = conectado %downspeed%
 label-disconnected = offline
 label-packetloss = los
 
