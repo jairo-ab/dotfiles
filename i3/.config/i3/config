@@ -41,7 +41,7 @@ font pango:Fantasque Sans Mono 9
 
 floating_modifier $mod
 
-new_window pixel 0
+#new_window pixel 0
 #default_border pixel 3
 
 # smart|urgent|focus|none
