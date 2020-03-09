@@ -1,6 +1,6 @@
 #!/bin/bash
 batticon=(    )
-grep -q 1 /sys/class/power_supply/ADP/online && batt="%{F#FFFFFF}%{F-}"
+grep -q 1 /sys/class/power_supply/ADP0/online && batt="%{F#FFFFFF}%{F-}"
 for ((i=0; i<=$(($(ls -d /sys/class/power_supply/BAT* | wc -l) - 1)); i++)); do
 	source /sys/class/power_supply/BAT$i/uevent 2> /dev/null
 	for j in {0..9}; do
