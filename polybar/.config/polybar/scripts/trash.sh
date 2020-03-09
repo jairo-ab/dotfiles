@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cor=$(awk -F# '/secondary/{print $2;exit}' ${HOME}/.config/polybar/config)
+cor=$(awk -F# '/secondary/{print $2;exit}' ${HOME}/.config/polybar/config_modules)
 trash_dir="${HOME}/.local/share/Trash"
 trash_temp="/tmp/lixo"
 icone="${HOME}/.local/share/icons/elementary/user-trash.png"
@@ -37,7 +37,7 @@ TRASH_COUNT=$(ls -U -1 "${trash_dir}/files" | wc -l)
 if [[ ${TRASH_COUNT} -gt 0 ]]; then
 	s=" ${TRASH_COUNT}"
 else
-	s="%{F#D08770}%{F-}"
+	s="%{F#${cor}}%{F-}"
 fi
 
 echo "${s}"
