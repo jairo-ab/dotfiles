@@ -1,5 +1,7 @@
 #!/bin/sh
 
+cor=$(awk -F# '/secondary/{print $2;exit}' ${HOME}/.config/polybar/config_modules)
+
 if ! updates_arch=$(checkupdates 2> /dev/null | wc -l ); then
     updates_arch=0
 fi
@@ -15,7 +17,7 @@ fi
 updates=$(("$updates_arch" + "$updates_aur"))
 
 if [ "$updates" -gt 0 ]; then
-    echo " $updates"
+    echo "%{F#${cor}}%{F-}  $updates"
 else
-    echo " $updates"
+    echo "%{F#${cor}}%{F-} $updates"
 fi
