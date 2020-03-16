@@ -447,10 +447,10 @@ tail = true
 ;			S C R E E N S H O T
 ;----------------------------------------------------------
 [module/screenshot]
-type = custom/text
+type = custom/script
 content = 
 content-foreground = ${colors.secondary}
-click-left = exec ~/.config/rofi/scripts/screenshot &
+click-left = bash ~/.config/rofi/scripts/screenshot &
 
 ;----------------------------------------------------------
 ;              N E T L E D OUT
