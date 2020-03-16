@@ -1,7 +1,7 @@
 #!/bin/bash
 
 app="maim -u"
-dir="${HOME}/Pictures/shots/"
+dir="${HOME}/Imagens/shots/"
 data=$(date +%Y-%m-%d_%H-%M-%S)
 nome="ss-${data}"
 extensao=".png"

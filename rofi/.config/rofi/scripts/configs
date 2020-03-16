@@ -35,7 +35,7 @@ if [ "$res" ]; then
 	case $res in
 		'i3') i3-msg exec $editor ~/.config/i3/config ;;
 		'Polybar')
-			polyconfig=$(echo "Config;Apps;Reload" | rofi $tema -sep ";" -dmenu -p "Polybar" -bw 0 -lines 3 -separator-style none -location 0 -width 160 -hide-scrollbar -padding 5)
+			polyconfig=$(echo "Config;Apps;Modules;Reload" | rofi $tema -sep ";" -dmenu -p "Polybar" -bw 0 -lines 4 -separator-style none -location 0 -width 160 -hide-scrollbar -padding 5)
 			if [ "$polyconfig" = "Reload" ]; then
 				~/.config/polybar/launch.sh
 			elif [ "$polyconfig" = "Apps" ]; then
@@ -45,6 +45,8 @@ if [ "$res" ]; then
 				fi
 			elif [ "$polyconfig" == "Config" ]; then
 				i3-msg exec $editor "${HOME}/.config/polybar/config"
+			elif [ "$polyconfig" == "Modules" ]; then
+				i3-msg exec $editor "${HOME}/.config/polybar/config_modules"
 			fi
 		;;
 		'i3lock')
@@ -116,7 +118,7 @@ if [ "$res" ]; then
 		    i3-msg exec $editor "${HOME}/.config/startpage/*.html"
 		;;
 		'Home')
-			homefiles=$(echo ".Xresources;.xinitrc;.xprofile;.Xdefaults;.bashrc;.bash_aliases;.bash_profile;.vimrc;mimeapps;bin;.bin;lock" | rofi $tema -sep ";" -dmenu -p "Home Files" -bw 0 -lines 12 -separator-style none -location 0 -width 190 -hide-scrollbar -padding 5)
+			homefiles=$(echo ".Xresources;.xinitrc;.xprofile;.Xdefaults;.bashrc;.bash_aliases;.bash_profile;.vimrc;mimeapps;bin;.local;lock" | rofi $tema -sep ";" -dmenu -p "Home Files" -bw 0 -lines 12 -separator-style none -location 0 -width 190 -hide-scrollbar -padding 5)
 
 			if [ "$homefiles" = ".Xresources" ]; then
 				resfiles=$( echo "Config;Cores;Reload" | rofi -sep ";" -dmenu -p "~/.Xresources" -bw 0 -lines 3 -separator-style none -location 0 -width 150 -hide-scrollbar -padding 5)
@@ -135,7 +137,7 @@ if [ "$res" ]; then
 				if [ $binfiles ]; then
 					i3-msg exec $editor ~/bin/${binfiles}
 				fi
-            elif [ "$homefiles" = ".bin" ]; then
+            elif [ "$homefiles" = ".local" ]; then
 				dotbinfiles=$(ls "${HOME}/.local/bin/" | rofi $tema -dmenu -p "~/.local/bin" -bw 0 -lines 11 -separator-style none -location 0 -width 180 -hide-scrollbar -padding 5)
 				if [ $dotbinfiles ]; then
 					i3-msg exec $editor ~/.local/bin/${dotbinfiles}
