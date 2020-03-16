@@ -450,7 +450,7 @@ tail = true
 type = custom/script
 content = 
 content-foreground = ${colors.secondary}
-click-left = ~/.config/rofi/scripts/screenshot &
+click-left = ~/.config/rofi/scripts/screenshot
 
 ;----------------------------------------------------------
 ;              N E T L E D OUT
