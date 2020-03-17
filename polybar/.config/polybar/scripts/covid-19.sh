@@ -8,6 +8,14 @@ AL="#BF616A"
 # fontes
 NORMAL="Source_Code_Pro:Regular:size=7"
 PRAG="PragmataProMonoW20-Regular:size=8"
+FontAwesome="^fn(FontAwesome)"
+
+# icon 
+time_icon="^i($HOME/.config/dzen2/clock.xbm)"
+note_icon="^i($HOME/.config/dzen2/note.xbm)"
+info_icon="^i($HOME/.config/dzen2/info.xbm)"
+info2_icon="^i($HOME/.config/dzen2/info2.xbm)"
+info3_icon="^i($HOME/.config/dzen2/info3.xbm)"
 
 readonly API_URL='https://corona.lmao.ninja'
 
@@ -36,14 +44,15 @@ main() {
   fi
 
 (
-echo "^fn($PRAG)^fg($C1)COVID-19^fg()"; echo
+echo "^fn($PRAG)^fg($C1)${info_icon} COVID-19^fg()"; echo
 echo "^fn($PRAG)^fg($C1)Casos no Brasil^fg()"; echo
-echo "^fg($P1)Número de casos..................: ^fg()^fg($AL)${data[cases]}^fg()"
-echo "^fg($P1)Casos registrados hoje.........: ^fg()^fg($AL)${data[todayCases]}^fg()"
-echo "^fg($P1)Número de mortes....................: ^fg()^fg($AL)${data[deaths]}^fg()"
-echo "^fg($P1)Mortes registradas hoje...........: ^fg()^fg($AL)${data[todayDeaths]}^fg()"
-echo "^fg($P1)Pacientes curados....................: ^fg()^fg($AL)${data[recovered]}^fg()"
-echo "^fg($P1)Pacientes em situação crítica: ^fg()^fg($AL)${data[critical]}^fg()"
+#echo "$( date -d @$((data[update] / 1000)) )";
+echo "^fg($P1)${info3_icon} Número de casos..................: ^fg()^fg($AL)${data[cases]}^fg()"
+echo "^fg($P1)${info3_icon} Casos registrados hoje.........: ^fg()^fg($AL)${data[todayCases]}^fg()"
+echo "^fg($P1)${info3_icon} Número de mortes....................: ^fg()^fg($AL)${data[deaths]}^fg()"
+echo "^fg($P1)${info3_icon} Mortes registradas hoje...........: ^fg()^fg($AL)${data[todayDeaths]}^fg()"
+echo "^fg($P1)${info3_icon} Pacientes curados....................: ^fg()^fg($AL)${data[recovered]}^fg()"
+echo "^fg($P1)${info3_icon} Pacientes em situação crítica: ^fg()^fg($AL)${data[critical]}^fg()"
 
 ) | dzen2 -p -fn "$NORMAL" -x "1100" -y "30" -bg "#26282D" -fg "#666666" -l "11" -w "250" -sa "c" -e "onstart=uncollapse;button3=exit"
 

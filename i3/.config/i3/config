@@ -153,6 +153,9 @@ bindsym --release Control+Mod1+r exec --no-startup-id $HOME/.local/bin/screencas
 # Tray
 bindsym $mod+Shift+t exec --no-startup-id $HOME/.config/polybar/scripts/tray.sh
 
+# Covid
+bindsym $mod+Shift+c --no-startup-id $HOME/.config/polybar/scripts/covid-19.sh
+
 ####################################################################
 ################ A R E A S #########################################
 ####################################################################
