@@ -3,6 +3,7 @@
 # cores
 C1="#cdae9c"
 P1="#eee8d5"
+AL="#BF616A"
 
 # fontes
 NORMAL="Source_Code_Pro:Regular:size=7"
@@ -37,12 +38,12 @@ main() {
 (
 echo "^fn($PRAG)^fg($C1)COVID-19^fg()"; echo
 echo "^fn($PRAG)^fg($C1)Casos no Brasil^fg()"; echo
-echo "^fg($P1)   Número de casosz.............: ${data[cases]}^fg()"
-echo "^fg($P1)      Casos registrados hoje.......: ${data[todayCases]}^fg()"
-echo "^fg($P1) Número de mortes.............: ${data[deaths]}^fg()"
-echo "^fg($P1)   Mortes registradas hoje......: ${data[todayDeaths]}^fg()"
-echo "^fg($P1)Pacientes curados............: ${data[recovered]}^fg()"
-echo "^fg($P1)        Pacientes em situação crítica: ${data[critical]}^fg()"
+echo "^fg($P1)Número de casosz................: ^fg()^fg($AL)${data[cases]}^fg()"
+echo "^fg($P1)Casos registrados hoje.........: ^fg()^fg($AL)${data[todayCases]}^fg()"
+echo "^fg($P1)Número de mortes....................: ^fg()^fg($AL)${data[deaths]}^fg()"
+echo "^fg($P1)Mortes registradas hoje...........: ^fg()^fg($AL)${data[todayDeaths]}^fg()"
+echo "^fg($P1)Pacientes curados....................: ^fg()^fg($AL)${data[recovered]}^fg()"
+echo "^fg($P1)Pacientes em situação crítica: ^fg()^fg($AL)${data[critical]}^fg()"
 
 ) | dzen2 -p -fn "$NORMAL" -x "1100" -y "30" -bg "#202020" -fg "#666666" -l "11" -w "250" -sa "c" -e "onstart=uncollapse;button3=exit"
 
