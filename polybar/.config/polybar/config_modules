@@ -204,7 +204,7 @@ tail = true
 ;              C O R O N A
 ;-------------------------------------------------------------------------
 [module/corona]
-type = custom/menu
+type = custom/script
 expand-right = true
 interval = 1
 
