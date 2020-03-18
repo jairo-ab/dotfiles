@@ -203,9 +203,7 @@ tail = true
 [module/corona]
 type = custom/script
 interval = 1
-label = %output:0:40:...%
-exec = ~/corona.sh
-
+exec = ~/coronabar.sh
 
 ;-------------------------------------------------------------------------
 ;              D I S C O
