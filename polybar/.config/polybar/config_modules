@@ -207,7 +207,6 @@ tail = true
 type = custom/menu
 expand-right = true
 interval = 1
-format = <label>
 
 label-open = " "
 label-close = " "
