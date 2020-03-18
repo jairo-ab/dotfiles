@@ -729,7 +729,7 @@ expand-right = true
 ;label-close-font = 5
 ;format-spacing = 1
 
-label-open = " "
+label-open = " "
 label-close = " "
 label-separator = " "
 
