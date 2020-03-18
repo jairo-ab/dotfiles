@@ -731,34 +731,24 @@ label-close = " "
 label-separator = " "
 
 menu-0-0 = 
-menu-0-0-exec = firefox &
 
 menu-0-1 = 
-menu-0-1-exec = thunar &
 
 menu-0-2 = /
-menu-0-2-exec = cd ; $TERMINAL &
 
 menu-0-3 = 
-menu-0-3-exec = subl &
 
 menu-0-4 = 
-menu-0-4-exec = telegram &
 
 menu-0-5 = 
-menu-0-5-exec = Whatsapp &
 
 menu-0-6 = 
-menu-0-6-exec = /usr/bin/steam > /dev/null 2> /dev/null &
 
 menu-0-7 = 
-menu-0-7-exec = ~/apps/DevDocs-0.6.7-x86_64.AppImage &
 
 menu-0-8 = 
-menu-0-8-exec = ~/apps/medley-latest.AppImage &
 
 menu-0-9 = 
-menu-0-9-exec = ~/.config/rofi/scripts/kill &
 
 [global/wm]
 margin-top = 5
