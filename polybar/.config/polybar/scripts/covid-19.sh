@@ -47,8 +47,8 @@ main() {
 echo "^fn($PRAG)^fg($C1)${info_icon} COVID-19^fg()"; echo
 echo "^fn($PRAG)^fg($C1)Casos no Brasil^fg()"; echo
 #echo "$( date -d @$((data[update] / 1000)) )";
-echo "^fg($P1)${info3_icon} Número de casos..................: ^fg()^fg($AL)${data[cases]}^fg()"
-echo "^fg($P1)${info3_icon} Casos registrados hoje.........: ^fg()^fg($AL)${data[todayCases]}^fg()"
+echo "^fg($P1)${info3_icon} Número de casos...................: ^fg()^fg($AL)${data[cases]}^fg()"
+echo "^fg($P1)${info3_icon} Casos registrados hoje.............: ^fg()^fg($AL)${data[todayCases]}^fg()"
 echo "^fg($P1)${info3_icon} Número de mortes....................: ^fg()^fg($AL)${data[deaths]}^fg()"
 echo "^fg($P1)${info3_icon} Mortes registradas hoje...........: ^fg()^fg($AL)${data[todayDeaths]}^fg()"
 echo "^fg($P1)${info3_icon} Pacientes curados....................: ^fg()^fg($AL)${data[recovered]}^fg()"
