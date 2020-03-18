@@ -203,7 +203,7 @@ tail = true
 [module/corona]
 type = custom/script
 interval = 1
-label = %output:1:40:...%
+label = %output:10:40:...%
 exec = "curl --silent 'https://corona.lmao.ninja/all' | jq '.'"
 
 
