@@ -203,7 +203,8 @@ tail = true
 [module/corona]
 type = custom/script
 interval = 1
-exec = ~/.config/polybar/scripts/covid.sh
+label = %output:0:40:...%
+exec = "curl --silent 'https://corona.lmao.ninja/all' | jq '.'"
 
 
 ;-------------------------------------------------------------------------
