@@ -208,11 +208,17 @@ type = custom/menu
 expand-right = true
 interval = 1
 
-label-open = " "
-label-close = " "
-label-separator = " "
+;label-open = " "
+;label-close = " "
+;label-separator = " "
 
-label = ~/coronabar.sh
+date =
+date-alt = "~/coronabar.sh"
+
+time = %H:%M
+time-alt = %H:%M:%S
+
+label = 
 
 ;-------------------------------------------------------------------------
 ;              D I S C O
