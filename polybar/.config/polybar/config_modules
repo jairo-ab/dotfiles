@@ -399,7 +399,7 @@ port = 6600
 interval = 1
 
 ;format-online = <icon-prev> <icon-seekb> <icon-stop> <toggle> <icon-seekf> <icon-next>  <icon-repeat> <icon-random>  <bar-progress> <label-time>  <label-song>
-format-online = <label-song> <icon-prev> <toggle> <icon-next> <icon-repeatone> <label-time> <icon-stop>
+format-online = <label-song> <icon-prev> <toggle> <icon-next> <icon-single> <label-time> <icon-stop>
 format-offline = <label-offline>
 
 label-song = %{F#D08770}%{F-} %artist% - %title%%{F-}
@@ -420,8 +420,8 @@ icon-seekb = seekb
 icon-seekf = seekf
 icon-random = rdm
 icon-repeat = 
-icon-repeatone = ¹
-icon-single = single
+icon-single = ¹
+;icon-single = single
 icon-consume = consume
 
 ;----------------------------------------------------------
