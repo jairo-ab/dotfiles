@@ -213,7 +213,7 @@ interval = 1
 ;label-separator = " "
 
 date =
-date-alt = "~/coronabar.sh"
+date-alt = ~/coronabar.sh
 
 time = %H:%M
 time-alt = %H:%M:%S
