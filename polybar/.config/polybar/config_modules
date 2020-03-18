@@ -212,7 +212,7 @@ label-open = " "
 label-close = " x"
 label-separator = " "
 
-menu-0-0-exec = ~/coronabar.sh
+menu-0-0 = exec ~/coronabar.sh
 ;menu-0-0-exec = ~/coronabar.sh 
 
 ;-------------------------------------------------------------------------
