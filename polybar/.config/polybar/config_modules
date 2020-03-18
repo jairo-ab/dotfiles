@@ -209,10 +209,10 @@ expand-right = true
 interval = 1
 
 label-open = " "
-label-close = " x"
+label-close = " "
 label-separator = " "
 
-menu-0-0 = 
+menu-0-0 = C.V
 menu-0-0-exec = echo "~/coronabar.sh" 
 
 ;-------------------------------------------------------------------------
