@@ -200,10 +200,20 @@ type = custom/script
 exec = ~/.config/polybar/scripts/hdd.sh
 tail = true
 
+;-------------------------------------------------------------------------
+;              C O R O N A
+;-------------------------------------------------------------------------
 [module/corona]
 type = custom/script
+expand-right = true
 interval = 1
-exec = ~/coronabar.sh 
+
+label-open = " "
+label-close = " "
+label-separator = " "
+
+menu-0-0 = 
+menu-0-0-exec = ~/coronabar.sh
 
 ;-------------------------------------------------------------------------
 ;              D I S C O
