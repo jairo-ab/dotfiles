@@ -203,12 +203,12 @@ tail = true
 ;-------------------------------------------------------------------------
 ;              C O R O N A
 ;-------------------------------------------------------------------------
-[module/corona]
+[module/apps]
 type = custom/menu
 expand-right = true
 interval = 1
 
-label-open = " "
+label-open = " "
 label-close = " "
 label-separator = " "
 
@@ -434,7 +434,7 @@ port = 6600
 interval = 1
 
 ;format-online = <icon-prev> <icon-seekb> <icon-stop> <toggle> <icon-seekf> <icon-next>  <icon-repeat> <icon-random>  <bar-progress> <label-time>  <label-song>
-format-online = <label-song> <icon-prev> <toggle> <icon-next> <icon-single> <label-time> <icon-stop>
+format-online = <label-song> <icon-prev> <toggle> <icon-next> <label-time> <icon-stop>
 format-offline = <label-offline>
 
 label-song = %{F#D08770}%{F-} %artist% - %title%%{F-}
