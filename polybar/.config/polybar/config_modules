@@ -213,7 +213,7 @@ label-close = " "
 label-separator = " "
 
 menu-0-0 = C.V
-menu-0-0-exec = bash "~/coronabar.sh" 
+menu-0-0-exec = "/bin/sh -c ~/coronabar.sh" 
 
 ;-------------------------------------------------------------------------
 ;              D I S C O
