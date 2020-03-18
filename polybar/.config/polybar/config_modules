@@ -205,7 +205,7 @@ tail = true
 ;-------------------------------------------------------------------------
 [module/corona]
 type = custom/date
-expand-right = true
+;expand-right = true
 interval = 1
 
 ;label-open = " "
