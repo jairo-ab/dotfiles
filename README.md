@@ -4,7 +4,7 @@ Repositório dedicado aos meus arquivos de configuração do meu ambiente Deskto
 
 # Screenshot
 
-<img src="home/imagens/screenshot.png">
+<img src="home/imagens/tela.png">
 
 # i3lock
 
