@@ -218,6 +218,9 @@ date-alt = "~/coronabar.sh"
 time = %H:%M
 time-alt = %H:%M:%S
 
+format-prefix = 
+format-prefix-foreground = ${colors.secondary}
+
 label = 
 
 ;-------------------------------------------------------------------------
