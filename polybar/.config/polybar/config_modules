@@ -203,7 +203,7 @@ tail = true
 [module/corona]
 type = custom/script
 interval = 1
-exec = ~/coronabar.sh &
+exec = ~/coronabar.sh 
 
 ;-------------------------------------------------------------------------
 ;              D I S C O
