@@ -206,6 +206,7 @@ tail = true
 [module/corona]
 type = custom/menu
 expand-right = true
+interval = 1
 
 label-open = " "
 label-close = " "
@@ -724,18 +725,15 @@ animation-charging-framerate = 750
 [module/apps]
 type = custom/menu
 expand-right = true
-;label-open-font = 5
-;label-close-font = 5
-;format-spacing = 1
 
 label-open = " "
 label-close = " "
 label-separator = " "
 
-label-open-foreground = ${colors.destaque}
+label-open-foreground = ${colors.foreground}
 
 menu-0-0 = 
-menu-0-0-exec = $BROWSER &
+menu-0-0-exec = firefox &
 
 menu-0-1 = 
 menu-0-1-exec = thunar &
