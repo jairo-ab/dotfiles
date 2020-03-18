@@ -738,7 +738,7 @@ menu-0-0-exec = firefox &
 menu-0-1 = 
 menu-0-1-exec = thunar &
 
-menu-0-2 = 
+menu-0-2 = /
 menu-0-2-exec = cd ; $TERMINAL &
 
 menu-0-3 = 
