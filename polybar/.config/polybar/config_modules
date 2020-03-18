@@ -208,8 +208,8 @@ type = custom/menu
 expand-right = true
 interval = 1
 
-label-open = " "
-label-close = " "
+label-open = " "
+label-close = " x"
 label-separator = " "
 
 menu-0-0 = 
