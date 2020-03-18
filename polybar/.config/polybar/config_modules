@@ -733,7 +733,7 @@ label-open = " "
 label-close = " "
 label-separator = " "
 
-label-open-foreground = ${colors.destaque}
+label-open-foreground = ${colors.foreground}
 
 menu-0-0 = 
 menu-0-0-exec = $BROWSER &
