@@ -204,7 +204,7 @@ tail = true
 type = custom/script
 interval = 1
 label = %output:0:40:...%
-exec = "curl --silent 'https://corona.lmao.ninja/all' | jq '.'"
+exec = "curl --silent 'https://corona.lmao.ninja/all'"
 
 
 ;-------------------------------------------------------------------------
