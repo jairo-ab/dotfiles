@@ -200,6 +200,12 @@ type = custom/script
 exec = ~/.config/polybar/scripts/hdd.sh
 tail = true
 
+[module/corona]
+type = custom/text
+interval = 1
+exec = ~/.config/polybar/scripts/covid.sh
+
+
 ;-------------------------------------------------------------------------
 ;              D I S C O
 ;-------------------------------------------------------------------------
