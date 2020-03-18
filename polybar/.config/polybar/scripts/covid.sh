@@ -31,6 +31,20 @@ main() {
     exit 1
   fi
 
+  echo -n "
+=========================================
+CASOS DE COVID-19 OFICIALMENTE REPORTADOS
+==========================================
+
+Última atualização: $( date -d @$((data[updated] / 1000)) )
+
+Dados Globais
+^^^^^^^^^^^^^
+Número de casos..............: ${data[cases]}
+Número de mortes.............: ${data[deaths]}
+Pacientes curados............: ${data[recovered]}
+"
+
   # obtendo dados do Brasil
   json="$(curl --silent "${API_URL}/countries/brazil")"
 
