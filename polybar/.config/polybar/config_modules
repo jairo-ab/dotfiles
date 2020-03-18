@@ -303,7 +303,7 @@ interval = 3.0
 
 format-connected-prefix = "%{F#a3be8c}  %{F-}"
 label-connected = %essid% %downspeed:%
-format-disconnected-prefix = " "
+format-disconnected-prefix = " "
 label-disconnected = offline
 
 label-connected-foreground = ${colors.principal}
