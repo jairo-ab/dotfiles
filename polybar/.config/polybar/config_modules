@@ -207,13 +207,14 @@ tail = true
 type = custom/menu
 expand-right = true
 interval = 1
+P1="~/coronabar.sh"
 
 label-open = " "
 label-close = " "
 label-separator = " "
 
-menu-0-0 = C.V.
-menu-0-0-exec = echo "~/coronabar.sh"
+menu-0-0 = ${P1}
+menu-0-0-exec = 
 
 ;-------------------------------------------------------------------------
 ;              D I S C O
