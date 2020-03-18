@@ -725,9 +725,6 @@ animation-charging-framerate = 750
 [module/apps]
 type = custom/menu
 expand-right = true
-;label-open-font = 5
-;label-close-font = 5
-;format-spacing = 1
 
 label-open = " "
 label-close = " "
