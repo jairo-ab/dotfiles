@@ -213,7 +213,7 @@ label-close = " x"
 label-separator = " "
 
 menu-0-0 = 
-menu-0-0-exec = ~/coronabar.sh | grep "echo"
+menu-0-0-exec = ~/coronabar.sh 
 
 ;-------------------------------------------------------------------------
 ;              D I S C O
