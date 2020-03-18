@@ -207,7 +207,7 @@ tail = true
 type = custom/menu
 expand-right = true
 interval = 1
-P1="~/coronabar.sh"
+P1="${HOME}/coronabar.sh"
 
 label-open = " "
 label-close = " "
