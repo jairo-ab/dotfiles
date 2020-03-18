@@ -736,7 +736,7 @@ label-separator = " "
 label-open-foreground = ${colors.foreground}
 
 menu-0-0 = 
-menu-0-0-exec = $BROWSER &
+menu-0-0-exec = firefox &
 
 menu-0-1 = 
 menu-0-1-exec = thunar &
