@@ -45,7 +45,7 @@ click-left = xdg-open https://mail.google.com
 
 `-l` ou `--label` - definir [rótulo](https://developers.google.com/gmail/api/v1/reference/users/labels/list) da caixa de correio do usuário, padrão: INBOX
 
-`-p` or `--prefix` - definir distintivo de email, padrão: 
+`-p` or `--prefix` - definir distintivo de email, padrão:  <img src"https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico">
 
 `-c` or `--color` - defina a nova cor do ícone de e-mail, padrão: #e06c75
 
