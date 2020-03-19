@@ -543,7 +543,7 @@ format-prefix-foreground = ${colors.secondary}
 ;----------------------------------------------------------
 [module/github]
 type = custom/text
-content = 
+content =  
 click-left = ~/.local/bin/github
 
 ;----------------------------------------------------------
