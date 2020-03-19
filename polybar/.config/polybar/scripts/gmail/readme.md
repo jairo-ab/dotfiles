@@ -1,22 +1,22 @@
 # Polybar Gmail
 
-A [Polybar](https://github.com/jaagr/polybar) module to show unread messages from Gmail.
+Um [Polybar](https://github.com/jaagr/polybar) Um módulo para mostrar mensagens não lidas do Gmail.
 
 ![preview](https://github.com/vyachkonovalov/polybar-gmail/raw/master/preview.png)
 
-## Dependencies
+## Dependências
 
 ```sh
 sudo pip install --upgrade oauth2client google-api-python-client
 ```
 
-**Font Awesome** - for email badge
+**Font Awesome** - para ícone de e-mail
 
-**canberra-gtk-play** - for new email sound
+**canberra-gtk-play** - para novo som de e-mail
 
-You can change the badge or turn off sound, for more info see [script arguments](#script-arguments)
+Você pode alterar o selo ou desativar o som. Para mais informações, consulte [argumentos de script](#script-arguments)
 
-## Installation
+## Instalação
 
 ```sh
 cd ~/.config/polybar
@@ -25,13 +25,13 @@ tar zxf master.tar.gz && rm master.tar.gz
 mv polybar-gmail-master gmail
 ```
 
-and obtain/refresh credentials
+e obter/atualizar credenciais
 
 ```sh
 ~/.config/polybar/gmail/auth.py
 ```
 
-### Module
+### Módulo
 
 ```ini
 [module/gmail]
@@ -41,23 +41,23 @@ tail = true
 click-left = xdg-open https://mail.google.com
 ```
 
-## Script arguments
+## Argumentos de script
 
-`-l` or `--label` - set user's mailbox [label](https://developers.google.com/gmail/api/v1/reference/users/labels/list), default: INBOX
+`-l` ou `--label` - definir [rótulo](https://developers.google.com/gmail/api/v1/reference/users/labels/list) da caixa de correio do usuário, padrão: INBOX
 
-`-p` or `--prefix` - set email badge, default: 
+`-p` or `--prefix` - definir distintivo de email, padrão: 
 
-`-c` or `--color` - set new email badge color, default: #e06c75
+`-c` or `--color` - defina a nova cor do ícone de e-mail, padrão: #e06c75
 
-`-ns` or `--nosound` - turn off new email sound
+`-ns` or `--nosound` - desativar o novo som de e-mail
 
-### Example
+### Exemplo
 
 ```sh
 ./launch.py --label 'CATEGORY_PERSONAL' --prefix '📧' --color '#be5046' --nosound
 ```
 
-## How to get full list of the mailbox labels
+## Como obter uma lista completa dos rótulos da caixa de correio
 
 ```python
 from apiclient import discovery
