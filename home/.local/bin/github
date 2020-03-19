@@ -7,7 +7,6 @@
 # */15 * * * * sh -c "~/.local/bin/github" > /dev/null 2>&1
 #
 
-
 nome="GitHub.sh"
 dir="${HOME}/.dotfiles"
 repos=('dotfiles')
