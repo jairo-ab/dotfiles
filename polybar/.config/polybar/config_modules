@@ -452,7 +452,7 @@ icon-prev-foreground = ${colors.secondary}
 icon-next-foreground = ${colors.secondary}
 
 ; Only applies if <icon-X> is used
-icon-play = 
+icon-play = 
 icon-pause = 
 icon-stop = 
 icon-prev = 
