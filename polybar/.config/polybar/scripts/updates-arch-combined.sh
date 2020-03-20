@@ -17,7 +17,7 @@ fi
 updates=$(("$updates_arch" + "$updates_aur"))
 
 if [ "$updates" -gt 0 ]; then
-    echo "%{F#${cor}}%{F-}  $updates"
+    echo "%{F#${cor}}%{F-} $updates"
 else
-    echo "%{F#${cor}}%{F-}  $updates"
+    echo "%{F#${cor}}%{F-} $updates"
 fi
