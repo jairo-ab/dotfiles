@@ -565,7 +565,7 @@ exec = ~/.config/polybar/scripts/trash.sh
 type = internal/xbacklight
 output = eDP1
 enable-scroll = true
-format = <ramp>
+format = <ramp><label>
 
 label = %percentage%%
 
