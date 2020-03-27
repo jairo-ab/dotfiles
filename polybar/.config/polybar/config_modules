@@ -734,15 +734,15 @@ bar-capacity-empty = █
 bar-capacity-empty-font = 3
 bar-capacity-empty-foreground = #44ffffff
 
-animation-charging-0 = 
+animation-charging-0 = 
 animation-charging-0-foreground = ${colors.connect}
-animation-charging-1 =  
+animation-charging-1 = 
 animation-charging-1-foreground = ${colors.connect}
-animation-charging-2 = 
+animation-charging-2 = 
 animation-charging-2-foreground = ${colors.connect}
-animation-charging-3 = 
+animation-charging-3 = 
 animation-charging-3-foreground = ${colors.connect}
-animation-charging-4 = 
+animation-charging-4 = 
 animation-charging-4-foreground = ${colors.connect}
 animation-charging-framerate = 750
 
