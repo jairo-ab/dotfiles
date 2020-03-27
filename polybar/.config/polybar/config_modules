@@ -94,25 +94,6 @@ click-middle = ~/.config/polybar/scripts/janela.sh -c
 click-right = ~/.config/polybar/scripts/janela.sh -w
 exec = ~/.config/polybar/scripts/janela.sh
 
-[module/backlight]
-type = internal/xbacklight
-output = eDP1
-enable-scroll = true
-format = <label>
-
-label = %percentage%%
-
-ramp-0 = 🌕
-ramp-1 = 🌔
-ramp-2 = 🌓
-ramp-3 = 🌒
-ramp-4 = 🌑
-
-bar-width = 10
-bar-indicator = |
-bar-fill = ─
-bar-empty = ─
-
 ;-------------------------------------------------------------------------
 ;				M O N I T O R
 ;-------------------------------------------------------------------------
@@ -576,6 +557,28 @@ tail = true
 click-middle = ~/.config/polybar/scripts/trash.sh -o &
 click-right = ~/.config/polybar/scripts/trash.sh -x &
 exec = ~/.config/polybar/scripts/trash.sh
+
+;----------------------------------------------------------
+;		       B R I L H O
+;----------------------------------------------------------
+[module/backlight]
+type = internal/xbacklight
+output = eDP1
+enable-scroll = true
+format = <label>
+
+label = %percentage%%
+
+ramp-0 = 🌕
+ramp-1 = 🌔
+ramp-2 = 🌓
+ramp-3 = 🌒
+ramp-4 = 🌑
+
+bar-width = 10
+bar-indicator = |
+bar-fill = ─
+bar-empty = ─
 
 ;----------------------------------------------------------
 ;		       T V
