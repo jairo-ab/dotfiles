@@ -566,7 +566,7 @@ type = internal/xbacklight
 output = eDP1
 enable-scroll = true
 format = <ramp><label>
-
+format-padding = 2
 label = %percentage%%
 
 ramp-0 = 🌕
