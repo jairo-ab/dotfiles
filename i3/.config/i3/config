@@ -294,7 +294,7 @@ mode "$mode_gaps" {
         bindsym Escape mode "default"
 }
 
-mode "$mode_gaps_inner" 
+mode "$mode_gaps_inner" {
         bindsym plus  gaps inner current plus 5
         bindsym minus gaps inner current minus 5
         bindsym 0     gaps inner current set 0
