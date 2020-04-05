@@ -127,7 +127,7 @@ bindsym $mod+m exec --no-startup-id $HOME/bin/dl.sh -a
 bindsym $mod+n exec --no-startup-id $HOME/bin/dl.sh -x
 
 # Rofi
-bindsym $mod+g exec --no-startup-id echo "Olá" | rofi -dmenu -p "Google: " -bw 0 -lines 1 -separator-style none -location 0 -width 250 -hide-scrollbar -padding 5 | xargs -I{} firefox https://www.google.com.br/search?q={}
+bindsym $mod+g exec --no-startup-id echo "" | rofi -dmenu -p "Google: " -bw 0 -lines 1 -separator-style none -location 0 -width 250 -hide-scrollbar -padding 5 | xargs -I{} firefox https://www.google.com.br/search?q={}
 bindsym --release Mod1+g exec --no-startup-id exec $HOME/.config/rofi/scripts/git
 bindsym $mod+Shift+w exec --no-startup-id $HOME/.config/rofi/scripts/janelas
 bindsym $mod+d exec --no-startup-id $HOME/.config/rofi/scripts/drun
