@@ -142,16 +142,8 @@ bindsym $mod+b exec --no-startup-id $HOME/.config/rofi/scripts/ebook
 bindsym $mod+Shift+x exec --no-startup-id $HOME/.local/lock/fortune
 
 # Screenshot & Screencast
-bindsym Print exec --no-startup-id $HOME/.config/rofi/scripts/screenshot
-bindsym Control+Print exec --no-startup-id $HOME/.local/bin/screenshot -w
-bindsym $mod+Print exec --no-startup-id $HOME/.local/bin/screenshot -d
-bindsym $mod+Shift+Print exec --no-startup-id $HOME/.local/bin/screenshot -e
-
-# ScreenCast
+bindsym Print exec --no-startup-id $HOME/.config/rofi/scripts/screensho
 bindsym --release Control+Mod1+r exec --no-startup-id $HOME/.local/bin/screencast
-
-# Tray
-bindsym $mod+Shift+t exec --no-startup-id $HOME/.config/polybar/scripts/tray.sh
 
 # Covid
 bindsym $mod+Shift+v exec --no-startup-id $HOME/.config/polybar/scripts/covid-19.sh
