@@ -142,7 +142,7 @@ bindsym $mod+b exec --no-startup-id $HOME/.config/rofi/scripts/ebook
 bindsym $mod+Shift+x exec --no-startup-id $HOME/.local/lock/fortune
 
 # Screenshot & Screencast
-bindsym Print exec --no-startup-id $HOME/.config/rofi/scripts/screensho
+bindsym Print exec --no-startup-id $HOME/.config/rofi/scripts/screenshot
 bindsym --release Control+Mod1+r exec --no-startup-id $HOME/.local/bin/screencast
 
 # Covid
