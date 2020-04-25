@@ -201,6 +201,12 @@ type = custom/script
 exec = ~/.config/polybar/scripts/hdd.sh
 tail = true
 
+[module/theme]
+type = custom/text
+content = 
+content-foreground = ${xrdb:border:#9dff00}
+click-left = $HOME/.config/polybar/scripts/theme.sh &
+
 ;-------------------------------------------------------------------------
 ;              C O R O N A
 ;-------------------------------------------------------------------------
