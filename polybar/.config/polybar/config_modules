@@ -32,6 +32,7 @@ secondary = #D08770
 principal = #eee8d5 
 alert = #BF616A
 connect = #BF616A
+border = ${xrdb:border:#9dff00}
 transparente = #F00000000
 
 ;----------------------------------------------------------
