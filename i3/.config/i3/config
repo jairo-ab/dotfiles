@@ -324,8 +324,6 @@ mode "$mode_gaps_outer" {
 exec_always --no-startup-id xrdb -merge $HOME/.Xresources
 exec_always --no-startup-id feh --bg-fill $HOME/.local/share/wallpapers/guerrilha.jpg
 exec --no-startup-id picom -b --config $HOME/.config/picom/picom.conf
-#exec --no-startup-id compton -b --respect-prop-shadow
-#exec --no-startup-id compton --config ~/.config/compton.conf
 exec --no-startup-id dunst -b 
 exec --no-startup-id xautolock -time 10 -detectsleep -locker $HOME/.local/lock/fortune &
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
