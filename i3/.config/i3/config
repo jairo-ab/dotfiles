@@ -327,5 +327,5 @@ exec_always --no-startup-id feh --bg-fill $HOME/.local/share/wallpapers/guerrilh
 exec --no-startup-id picom -b --config $HOME/.config/picom/picom.conf
 exec --no-startup-id dunst -b 
 exec --no-startup-id xautolock -time 10 -detectsleep -locker $HOME/.local/lock/fortune &
-#exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec_always --no-startup-id $HOME/.local/bin/github
