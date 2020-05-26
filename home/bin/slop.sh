@@ -9,4 +9,4 @@ g=${W}x${H}+${X}+${Y}
 
 # move <left|right|down|up> [<px> px]
 
-termite GEOMETRY $g && i3-msg "[class='termite'] floating enable, resize set ${W} ${H}, move absolute position ${X} px ${Y} px"
+termite geometry $g && i3-msg "[class='termite'] floating enable, resize set ${W} ${H}, move absolute position ${X} px ${Y} px"
