@@ -442,7 +442,7 @@ port = 6600
 interval = 1
 
 ;format-online = <icon-prev> <icon-seekb> <icon-stop> <toggle> <icon-seekf> <icon-next>  <icon-repeat> <icon-random>  <bar-progress> <label-time>  <label-song>
-format-online = <label-song> <icon-prev> <toggle> <icon-next> 
+format-online = <label-song> 
 format-offline = <label-offline>
 
 label-song = %{F#D08770}%{F-} %artist% - %title%%{F-}
