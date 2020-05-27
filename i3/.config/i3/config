@@ -65,8 +65,8 @@ client.background       $bg
 ####################################################################
 
 # start a terminal
-#bindsym $mod+Return exec termite
-bindsym $mod+Return exec --no-startup-id $HOME/bin/slop.sh
+bindsym $mod+Return exec termite
+#bindsym $mod+Return exec --no-startup-id $HOME/bin/slop.sh
 bindsym $mod+t exec thunar
 
 # kill focused window
