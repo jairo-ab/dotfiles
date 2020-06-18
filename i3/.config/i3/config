@@ -215,6 +215,7 @@ for_window [class="(Mate-font-viewer|Notes|Pavucontrol|YAD)"] move to workspace 
 for_window [class="Lxtask" title="Gerenciador de tarefas"] floating enable, resize set 800 px 600 px, move position center
 for_window [class="^VirtualBox" title="*Executando*"] floating enable
 for_window [class="(URxvt|Termite)"] move to workspace $ws2,floating enable, move position center
+for_window [class="Termite" title="aladraw"] floating enable
 
 for_window [title="(.*Reiniciar dispositivo.*|Preferências do Thunderbird|Video Cut|Video Resize)"] floating enable, move position center
 for_window [class="(Engrampa|Galculator|Catfish|Viewnior|File-roller|mpv)"] floating enable, move position center
