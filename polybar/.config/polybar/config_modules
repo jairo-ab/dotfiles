@@ -115,7 +115,7 @@ click-left = xdg-open https://mail.google.com
 type = custom/text
 content = 
 content-foreground = ${colors.secondary}
-click-left = $HOME/.config/polybar/scripts/grabc
+click-left = ~/.config/polybar/scripts/grabc.sh
 
 ;-------------------------------------------------------------------------
 ;              C P U
