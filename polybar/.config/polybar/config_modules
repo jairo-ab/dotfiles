@@ -111,6 +111,12 @@ exec = ~/.config/polybar/scripts/gmail/launch.py
 tail = true
 click-left = xdg-open https://mail.google.com
 
+[module/grabc]
+type = custom/text
+content = 
+content-foreground = ${colors.secondary}
+click-left = $HOME/.config/polybar/scripts/grabc
+
 ;-------------------------------------------------------------------------
 ;              C P U
 ;-------------------------------------------------------------------------
