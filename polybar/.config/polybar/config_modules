@@ -376,7 +376,7 @@ format-prefix-foreground = ${colors.secondary}
 
 label = %date% %time%
 label-foreground = ${colors.principal}
-click-left = ~/.config/polybar/scripts/dzen-calendar.sh
+click-left = ~/.config/polybar/scripts/dzen-calendar.sh &
 
 ;-------------------------------------------------------------------------
 ;              P U L S E
