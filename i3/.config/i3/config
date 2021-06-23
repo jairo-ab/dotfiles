@@ -65,9 +65,9 @@ client.background       $bg
 ####################################################################
 
 # start a terminal
-bindsym $mod+Return exec termite
+bindsym $mod+Return exec --no-startup-id alacritty
 #bindsym $mod+Return exec --no-startup-id $HOME/bin/slop.sh
-bindsym $mod+t exec thunar
+bindsym $mod+t exec --no-startup-id thunar
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -233,16 +233,16 @@ for_window [class="(MEGAsync)"] move window to scratchpad
 for_window [title="(^DeaDBeeF)"] move to workspace $ws6, floating enable, move position center
 for_window [title="(^Friends List)"] move to workspace $ws6, floating enable, move absolute position 1520 px 70 px
 
-assign [class="^(Chromium|qutebrowser|Epiphany|firefox|firefox-developer)"] $ws1
-assign [class="(Termite|URxvt|Tilix|Gnome-terminal|st-256color)"] $ws2
-assign [class="^(code|Pluma|Sublime_text|Leafpad|Atom)"] $ws3
+assign [class="^(Chromium|Google-chrome|qutebrowser|Epiphany|firefox|firefox-developer)"] $ws1
+assign [class="(Termite|URxvt|Tilix|Alacritty|Gnome-terminal|st-256color)"] $ws2
+assign [class="^(Code|Pluma|Sublime_text|Leafpad|Atom)"] $ws3
 assign [class="(Thunar|Nautilus|Pcmanfm)"] $ws4
 assign [class="(Lxappearance|^Pamac*|Notes|Gucharmap|qBittorrent|Inkscape|Lxtask|^Mate-disk-usage-analyzer|Dconf-editor|Filezilla|JDownloader)"] $ws5
-assign [class="(^Steam|Anydesk|TeamViewer|org.remmina.Remmina)"] $ws6
+assign [class="(^Steam|Postman|Anydesk|TeamViewer|org.remmina.Remmina)"] $ws6
 assign [class="(Thunderbird|Deluge)"] $ws7
 assign [class="(whatsdesk|sun-awt-X11-XFramePeer|Whatsie|Whatsapp|whatsapp-desktop)"] $ws8
 assign [class="(^Telegram|^Hexchat)"] $ws9
-assign [class="(^Atril)"] $ws10
+assign [class="(^Atril|rdesktop)"] $ws10
 
 ####################################################################
 ################ G R U P O S #######################################
@@ -325,8 +325,8 @@ mode "$mode_gaps_outer" {
 ####################################################################
 exec_always --no-startup-id xrdb -merge $HOME/.Xresources
 exec_always --no-startup-id feh --bg-fill $HOME/.local/share/wallpapers/guerrilha.jpg
-exec --no-startup-id picom -b --config $HOME/.config/picom/picom.conf
+exec_always --no-startup-id picom &
 exec --no-startup-id dunst -b 
 exec --no-startup-id xautolock -time 10 -detectsleep -locker $HOME/.local/lock/fortune &
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec_always --no-startup-id $HOME/.local/bin/github
+#exec_always --no-startup-id $HOME/.local/bin/github
