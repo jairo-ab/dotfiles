@@ -1,0 +1,12 @@
+# mpv
+function mm() {
+	params=\"$@\"
+	killall mpv 1> /dev/null 2> /dev/null
+	sleep 1
+	(mpv --really-quiet --profile=youtube-cache ytdl://ytsearch:"$params") > /dev/null 2> /dev/null &
+}
+
+function mma() {
+ #mpv --ytdl-format=bestaudio ytdl://ytsearch:"$@" # ytdl://ytsearch10:"$@"
+ mpv --no-video --ytdl-format=bestaudio ytdl://ytsearch:"$@"
+}
