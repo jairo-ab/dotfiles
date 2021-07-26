@@ -1,0 +1,10 @@
+"=============================================================================
+" vimrc --- Entry file for vim
+" Copyright (c) 2016-2020 Shidong Wang & Contributors
+" Author: Shidong Wang < wsdjeg@outlook.com >
+" URL: https://spacevim.org
+" License: GPLv3
+"=============================================================================
+
+set mouse = a 
+set wrap 
