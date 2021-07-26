@@ -76,6 +76,12 @@ alias pbpaste='xclip -selection clipboard -o'
 alias timer='echo "Timer started. Stop with Ctrl-D." && date "+%a, %d %b %H:%M:%S" && time cat && date "+%a, %d %b %H:%M:%S"'
 alias tldr='tldr -t base16'
 alias music='ncmpcpp'
+alias fetching='sh "$HOME/.local/bin/fetching"'
+alias rdesktop-adm="rdesktop -g $(xrandr -q | awk '/Screen 0/ {print int($8/1.28) $9 int($10/1.2)}' | sed 's/,//g') 192.168.2.80"
+alias docker='sudo docker'
+alias docker-compose='sudo docker-compose'
+alias ports='lsof -i -P -n | grep LISTEN'
+alias sql='sh ~/Downloads/sqldeveloper/sqldeveloper/sqldeveloper.sh'
 
 # Developer shortcuts
 alias g='git'
@@ -91,3 +97,4 @@ alias artisan='php artisan'
 alias :q='exit'
 alias help='man'
 alias quit='exit'
+alias tb="nc termbin.com 9999"
