@@ -2,8 +2,7 @@
 
 scr='/tmp/screenshot.png'
 icon="$HOME/.local/share/i3lock/rocket.png"
-font="$HOME/.fonts/opensans.ttf"
-#font="/usr/share/fonts/TTF/DejaVuSans.ttf"
+font="$HOME/.fonts/FiraCode-Regular.ttf"
 
 [ ! -d $HOME/.local/share/fonts ] && mkdir -p $HOME/.local/share/fonts
 [ ! -f $font ] && curl -s -L 'https://www.dropbox.com/s/69ujvh8p7k8pah7/opensans.ttf?dl=1' > $font && fc-cache -v -f
