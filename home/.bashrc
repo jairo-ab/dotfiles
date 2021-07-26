@@ -102,13 +102,25 @@ if [ $? -eq 0 ]; then \
     echo "'$Green'"$(__git_ps1 " (%s) "); \
   else \
     # @5 - Changes to working tree
-    echo "'$BRed'"$(__git_ps1 " {%s} "); \
+    echo "'$BPurple'"$(__git_ps1 " %s "); \
   fi) '$Color_Off$BYellow$PathShort$Color_Off'  "; \
 else \
   # @2 - Prompt when not in GIT repo
   echo " '$BYellow$PathShort$Color_Off'  "; \
 fi)'
 
+###################################
+############ G I T ################
+###################################
 source "$HOME"/bin/git-prompt.sh
+
+###################################
+######## A L I A S E S ############
+###################################
 source "$HOME"/.aliases
+
+###################################
+######## F U N Ç Õ E S ############
+###################################
+source "$HOME"/.bash_funcions
 fetching -r
