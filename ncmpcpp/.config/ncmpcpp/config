@@ -1,7 +1,7 @@
-mpd_music_dir = "~/Music"
+mpd_music_dir = "~/Música"
 ncmpcpp_directory = "~/.config/ncmpcpp"
 mpd_host = "localhost"
-mpd_port = "6600"
+mpd_port = 6600
 mpd_connection_timeout = 5
 
 # Playlist
@@ -53,7 +53,7 @@ statusbar_color = "white"
 
 # Others
 #execute_on_song_change = ~/.config/notifymusic.sh
-execute_on_song_change = notify-send -i "${HOME}/.local/share/icons/elementary/audio-speakers.png" "$(mpc current)"
+execute_on_song_change = notify-send -i "${HOME}/.local/share/icons/elementary/com.github.artemanufrij.playmymusic.svg" "$(mpc current)"
 empty_tag_marker=" -- NENHUMA TAG -- "
 song_window_title_format = "ncmpcpp: %a - %t"
 search_engine_display_mode = "columns"
@@ -62,11 +62,11 @@ startup_slave_screen_focus = no
 display_remaining_time = "yes"
 
 # Visualiser
-visualizer_fifo_path = /tmp/mpd.fifo
+#visualizer_fifo_path = /tmp/mpd.fifo
 visualizer_output_name = "Visualizer feed"
 visualizer_in_stereo = no
 #visualizer_sample_multiplier = 1
-visualizer_sync_interval = 30
+#visualizer_sync_interval = 30
 visualizer_type = spectrum
 visualizer_look = ●┃
 visualizer_color = cyan, blue, white, black, red
