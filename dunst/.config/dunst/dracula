@@ -12,10 +12,10 @@
     height = 250
 
     # Position the notification
-    origin = top-right
+    origin = bottom-right
 
     # Offset from the origin
-    offset = 10x30
+    offset = 10x10
 
     # Scale factor. It is auto-detected if value is 0.
     scale = 0
@@ -70,7 +70,7 @@
     ### Icons ###
     icon_position = left
     max_icon_size = 48
-    icon_path = /usr/share/icons/Adwaita/status/48/:/usr/share/icons/Adwaita/devices/48/:/usr/share/icons/Adwaita/apps/48/
+    icon_path = /usr/share/icons/Newaita/status/48/:/usr/share/icons/Newaita/devices/48/:/usr/share/icons/Newaita/apps/48/
 
     ### History ###
     sticky_history = yes
