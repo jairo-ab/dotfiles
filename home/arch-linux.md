@@ -297,21 +297,21 @@ pulseaudio --start
 start-pulseaudio-x11
 ```
 
-### Reiniciar
+# Reiniciar
 
-# Saia do Ambiente chroot digitando
+### Saia do Ambiente chroot digitando
 ```
 exit
 ```
 
-# Agora desmonte as partições,  isso permite noticiar quaisquer partições "ocupadas" 
+### Agora desmonte as partições,  isso permite noticiar quaisquer partições "ocupadas" 
 ```
 umount -R /mnt
 ```
 
-# Finalmente, reinicie a máquina digitando
+### Finalmente, reinicie a máquina digitando
 ```
 reboot
 ```
 
-### OSB: Lembre-se de remover a mídia de instalação 
+## OSB: Lembre-se de remover a mídia de instalação 
