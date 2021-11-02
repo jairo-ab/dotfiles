@@ -117,7 +117,7 @@ genfstab -U /mnt >> /mnt/etc/fstab
 arch-chroot /mnt
 ```
 
-### Habilitar rede dhcpcd:
+### Habilitar rede:
 
 ```
 systemctl enable NetworkManager
