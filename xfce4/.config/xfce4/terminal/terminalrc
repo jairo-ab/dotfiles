@@ -26,5 +26,10 @@ MiscSlimTabs=FALSE
 MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
-FontUseSystem=TRUE
+FontName=Fira Code 9
+ColorBackground=#28282a293636
+ColorSelectionUseDefault=FALSE
+ColorSelection=#ffffffffffff
+ColorSelectionBackground=#444447475a5a
+
 
