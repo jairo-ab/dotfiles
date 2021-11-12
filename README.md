@@ -26,7 +26,7 @@ Repositório dedicado aos meus arquivos de configuração do meu ambiente Deskto
 | Visualizador Imagens| [Feh](http://feh.finalrewind.org/)                                                                                                  |                                                                                          
 | Captura de Tela     | [Maim](https://github.com/naelstrof/maim)                                                                                           |
 | Gravador de Tela    | [FFmpeg](https://www.ffmpeg.org/)                                                                                                   |
-| Emulador Terminal   | [Termite](https://github.com/thestinger/termite)                                                                                    |
+| Emulador Terminal   | [Kitty](https://github.com/kovidgoyal/kitty)                                                                                        |
 | Shell               | [Bash](https://devdocs.io/bash/)                                                                                                    |
 | Editor de Texto     | [Nano](https://www.nano-editor.org/) e [VScode](https://code.visualstudio.com/)                                                     |
 | Conf. do Monitor    | [Xrandr](https://wiki.archlinux.org/index.php/xrandr)                                                                               |
