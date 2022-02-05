@@ -10,6 +10,8 @@ uptime=$(uptime -p | sed -e 's/up //g')
 
 rofi_command="rofi -theme $dir/powermenu.rasi"
 
+fortune="$HOME/.local/lock/fortune"
+
 # Options
 shutdown=" Desligar"
 reboot=" Reiniciar"
@@ -58,7 +60,7 @@ case $chosen in
         ;;
     $lock)
 		if [[ -f /usr/bin/i3lock ]]; then
-			i3lock
+			$fortune
 		elif [[ -f /usr/bin/betterlockscreen ]]; then
 			betterlockscreen -l
 		fi
