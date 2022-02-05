@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cor=$(awk -F# '/secondary/{print $2;exit}' ${HOME}/.config/polybar/config_modules)
+cor=$(awk -F# '/secondary/{print $2;exit}' ${HOME}/.config/polybar/principal/user_modules.ini)
 trash_dir="${HOME}/.local/share/Trash"
 trash_temp="/tmp/lixo"
 icone="${HOME}/.local/share/icons/elementary/user-trash.png"
