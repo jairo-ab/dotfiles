@@ -1,0 +1,2 @@
+adb -s 10.0.10.34:39277 shell am start -a android.intent.action.VIEW -d URL //comando para abrir o navegador com uma url
+adb -s 10.0.10.34:39277 shell monkey -p com.android.camera -c android.intent.category.LAUNCHER 1 // abrir um comando a partir do nome do apk

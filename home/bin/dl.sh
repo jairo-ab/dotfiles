@@ -6,16 +6,12 @@
 # Baixa todos os links contidos nesta lista usando o youtube-dl
 # Apaga essa lista
 #
-# Feito por Lucas Saliés Brum a.k.a. sistematico, <lucas@archlinux.com.br>
-#
-# Criado em: 08/01/2019 21:15:36
-# Última alteração: 09/01/2019 05:16:36
 
 [ -f ${HOME}/.config/user-dirs.dirs ] && . ${HOME}/.config/user-dirs.dirs
 
 tipo="video"
 icone="${HOME}/.local/share/icons/elementary/preferences-system-network.png"
-pasta="${HOME}/Music/Baixadas" 	# Diretório para salvar os arquivos.
+pasta="${HOME}/Música" 	# Diretório para salvar os arquivos.
 lixeira="${HOME}/.local/share/Trash"
 url="$(xclip -o)"
 som="complete" # /usr/share/sounds/freedesktop/stereo/

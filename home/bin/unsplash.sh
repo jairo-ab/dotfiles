@@ -20,7 +20,7 @@ which file >/dev/null 2>&1 || { echo >&2 "O programa file não está instalado. 
 downloaded="/var/tmp/unsplash.txt"
 mask=$(date +'%Y-%m-%d_%H%M%S')
 nome="unsplash-${mask}"
-dir="${HOME}/img/unsplash"
+dir="${HOME}/Imagens/download/unsplash"
 arquivo="${dir}/${nome}.jpg"
 x=$(xdpyinfo | awk -F '[ x]+' '/dimensions:/{print $3}')
 y=$(xdpyinfo | awk -F '[ x]+' '/dimensions:/{print $4}')
