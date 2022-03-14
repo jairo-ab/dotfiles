@@ -122,5 +122,25 @@ source "$HOME"/.aliases
 ###################################
 ######## F U N Ç Õ E S ############
 ###################################
-source "$HOME"/.bash_funcions
-fetching -r
+source "$HOME"/.bash_functions
+
+##################################
+######### S O U R C E S ##########
+##################################
+#/home/jairo/Downloads/AUR/./fm6000 -color random -r
+export PATH=/home/jairo/.meteor:$PATH
+"$HOME"/.local/bin/tty-master/dracula-tty.sh
+"$HOME"/bin/sys-temp.sh
+######## P R O M P T #############
+
+d=.dircolors
+test -r $d && eval "$(dircolors $d)"
+
+# BEGIN_KITTY_SHELL_INTEGRATION
+if test -n "$KITTY_INSTALLATION_DIR" -a -e "$KITTY_INSTALLATION_DIR/shell-integration/bash/kitty.bash"; then source "$KITTY_INSTALLATION_DIR/shell-integration/bash/kitty.bash"; fi
+# END_KITTY_SHELL_INTEGRATION
+
+#IBus export
+export GTK_IM_MODULE=ibus
+export XMODIFIERS=@im=ibus
+export QT_IM_MODULES=ibus
