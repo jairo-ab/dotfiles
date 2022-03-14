@@ -1,0 +1,15 @@
+#!/usr/bin/python
+
+import breezy
+import breezy.bzr
+import breezy.git
+from breezy.git.server import BzrBackend
+from dulwich.server import ReceivePackHandler, serve_command
+import sys, os
+
+if len(sys.argv) < 2:
+    print("usage: %s <git-dir>" % os.path.basename(sys.argv[0]))
+    sys.exit(1)
+
+backend = BzrBackend(breezy.transport.get_transport("/"))
+sys.exit(serve_command(ReceivePackHandler, backend=backend))
